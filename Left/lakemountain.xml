@@ -1,0 +1,3756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\martin\Documents\Keyboard\lakemountain\lakemountain.kicad_sch</source>
+    <date>2023-02-05 15:03:28</date>
+    <tool>Eeschema (6.0.11)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Lakemountain Left</title>
+        <company>Lakemountain</company>
+        <rev> </rev>
+        <date>2023-01-29</date>
+        <source>lakemountain.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C4">
+      <value>cap_1uF_10v_0402</value>
+      <footprint>Bonsai_C4:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Display value">1uF</field>
+        <field name="LCSC">C52923</field>
+        <field name="MPN">CC0402KRX5R6BB105</field>
+        <field name="Mfg">Yageo</field>
+      </fields>
+      <libsource lib="Bonsai_C4" part="cap_1uF_10v_0402" description=""/>
+      <property name="MPN" value="CC0402KRX5R6BB105"/>
+      <property name="Mfg" value="Yageo"/>
+      <property name="Display value" value="1uF"/>
+      <property name="LCSC" value="C52923"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7835b006-5d9a-4abe-8bf0-5e1af78452a4</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>cap_4.7uF_10v_0402</value>
+      <footprint>Bonsai_C4:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Display value">4.7uF</field>
+        <field name="LCSC">C23733</field>
+        <field name="MPN">CL05A475MP5NRNC</field>
+        <field name="Mfg">Samsung</field>
+      </fields>
+      <libsource lib="Bonsai_C4" part="cap_4.7uF_10v_0402" description=""/>
+      <property name="MPN" value="CL05A475MP5NRNC"/>
+      <property name="Mfg" value="Samsung"/>
+      <property name="Display value" value="4.7uF"/>
+      <property name="LCSC" value="C23733"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f3ae9546-2921-4d75-95a5-5530badcc3d6</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>cap_1uF_10v_0402</value>
+      <footprint>Bonsai_C4:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Display value">1uF</field>
+        <field name="LCSC">C52923</field>
+        <field name="MPN">CC0402KRX5R6BB105</field>
+        <field name="Mfg">Yageo</field>
+      </fields>
+      <libsource lib="Bonsai_C4" part="cap_1uF_10v_0402" description=""/>
+      <property name="MPN" value="CC0402KRX5R6BB105"/>
+      <property name="Mfg" value="Yageo"/>
+      <property name="Display value" value="1uF"/>
+      <property name="LCSC" value="C52923"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>52ee718a-bd38-414e-9c00-7feac54ddd18</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>cap_100nF_16v_0402</value>
+      <footprint>Bonsai_C4:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Display value">0.1uF</field>
+        <field name="LCSC">C1525</field>
+        <field name="MPN">CL05B104KO5NNNC</field>
+        <field name="Mfg">Samsung</field>
+      </fields>
+      <libsource lib="Bonsai_C4" part="cap_100nF_16v_0402" description=""/>
+      <property name="MPN" value="CL05B104KO5NNNC"/>
+      <property name="Mfg" value="Samsung"/>
+      <property name="Display value" value="0.1uF"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e9840a35-3d22-4108-aa74-9d2811c468a0</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>cap_20pF_50v_0402</value>
+      <footprint>Bonsai_C4:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Display value">20pF</field>
+        <field name="LCSC">C1554</field>
+        <field name="MPN">0402CG200J500NT</field>
+        <field name="Mfg">Guangdong Fenghua Advanced Tech</field>
+      </fields>
+      <libsource lib="Bonsai_C4" part="cap_20pF_50v_0402" description=""/>
+      <property name="MPN" value="0402CG200J500NT"/>
+      <property name="Mfg" value="Guangdong Fenghua Advanced Tech"/>
+      <property name="Display value" value="20pF"/>
+      <property name="LCSC" value="C1554"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7a03bc8-1ae1-4532-bc98-b17224d7d9d0</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>cap_20pF_50v_0402</value>
+      <footprint>Bonsai_C4:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Display value">20pF</field>
+        <field name="LCSC">C1554</field>
+        <field name="MPN">0402CG200J500NT</field>
+        <field name="Mfg">Guangdong Fenghua Advanced Tech</field>
+      </fields>
+      <libsource lib="Bonsai_C4" part="cap_20pF_50v_0402" description=""/>
+      <property name="MPN" value="0402CG200J500NT"/>
+      <property name="Mfg" value="Guangdong Fenghua Advanced Tech"/>
+      <property name="Display value" value="20pF"/>
+      <property name="LCSC" value="C1554"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ec0a36ed-4bbe-4580-b69e-dc80b3253241</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>cap_100nF_16v_0402</value>
+      <footprint>Bonsai_C4:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Display value">0.1uF</field>
+        <field name="LCSC">C1525</field>
+        <field name="MPN">CL05B104KO5NNNC</field>
+        <field name="Mfg">Samsung</field>
+      </fields>
+      <libsource lib="Bonsai_C4" part="cap_100nF_16v_0402" description=""/>
+      <property name="MPN" value="CL05B104KO5NNNC"/>
+      <property name="Mfg" value="Samsung"/>
+      <property name="Display value" value="0.1uF"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2ae958de-ef62-43fc-b2d9-d94aa706bca0</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>cap_100nF_16v_0402</value>
+      <footprint>Bonsai_C4:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Display value">0.1uF</field>
+        <field name="LCSC">C1525</field>
+        <field name="MPN">CL05B104KO5NNNC</field>
+        <field name="Mfg">Samsung</field>
+      </fields>
+      <libsource lib="Bonsai_C4" part="cap_100nF_16v_0402" description=""/>
+      <property name="MPN" value="CL05B104KO5NNNC"/>
+      <property name="Mfg" value="Samsung"/>
+      <property name="Display value" value="0.1uF"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c7e347d-3a65-4c13-8640-43a8b8ce4a56</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>cap_10uF_10v_0402</value>
+      <footprint>Bonsai_C4:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Display value">10uF</field>
+        <field name="LCSC">C19702</field>
+        <field name="MPN">CL10A106KP8NNNC</field>
+        <field name="Mfg">Samsung</field>
+      </fields>
+      <libsource lib="Bonsai_C4" part="cap_10uF_10v_0402" description=""/>
+      <property name="MPN" value="CL10A106KP8NNNC"/>
+      <property name="Mfg" value="Samsung"/>
+      <property name="Display value" value="10uF"/>
+      <property name="LCSC" value="C19702"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4955cc09-f15b-4ab3-afbb-34de9a044782</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>cap_100nF_16v_0402</value>
+      <footprint>Bonsai_C4:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Display value">0.1uF</field>
+        <field name="LCSC">C1525</field>
+        <field name="MPN">CL05B104KO5NNNC</field>
+        <field name="Mfg">Samsung</field>
+      </fields>
+      <libsource lib="Bonsai_C4" part="cap_100nF_16v_0402" description=""/>
+      <property name="MPN" value="CL05B104KO5NNNC"/>
+      <property name="Mfg" value="Samsung"/>
+      <property name="Display value" value="0.1uF"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>62274afe-e378-4627-ad60-401e249c5a7d</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>cap_100nF_16v_0402</value>
+      <footprint>Bonsai_C4:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Display value">0.1uF</field>
+        <field name="LCSC">C1525</field>
+        <field name="MPN">CL05B104KO5NNNC</field>
+        <field name="Mfg">Samsung</field>
+      </fields>
+      <libsource lib="Bonsai_C4" part="cap_100nF_16v_0402" description=""/>
+      <property name="MPN" value="CL05B104KO5NNNC"/>
+      <property name="Mfg" value="Samsung"/>
+      <property name="Display value" value="0.1uF"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5a365fa-8a59-4f79-bcfc-4bfb25544e9f</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>cap_4.7uF_10v_0402</value>
+      <footprint>Bonsai_C4:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Display value">4.7uF</field>
+        <field name="LCSC">C23733</field>
+        <field name="MPN">CL05A475MP5NRNC</field>
+        <field name="Mfg">Samsung</field>
+      </fields>
+      <libsource lib="Bonsai_C4" part="cap_4.7uF_10v_0402" description=""/>
+      <property name="MPN" value="CL05A475MP5NRNC"/>
+      <property name="Mfg" value="Samsung"/>
+      <property name="Display value" value="4.7uF"/>
+      <property name="LCSC" value="C23733"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e29804eb-08f1-4600-9680-2285781d9c88</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>cap_100nF_16v_0402</value>
+      <footprint>Bonsai_C4:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Display value">0.1uF</field>
+        <field name="LCSC">C1525</field>
+        <field name="MPN">CL05B104KO5NNNC</field>
+        <field name="Mfg">Samsung</field>
+      </fields>
+      <libsource lib="Bonsai_C4" part="cap_100nF_16v_0402" description=""/>
+      <property name="MPN" value="CL05B104KO5NNNC"/>
+      <property name="Mfg" value="Samsung"/>
+      <property name="Display value" value="0.1uF"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e3b357b-07ee-4e89-952b-e6b3aee16319</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>cap_100nF_16v_0402</value>
+      <footprint>Bonsai_C4:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Display value">0.1uF</field>
+        <field name="LCSC">C1525</field>
+        <field name="MPN">CL05B104KO5NNNC</field>
+        <field name="Mfg">Samsung</field>
+      </fields>
+      <libsource lib="Bonsai_C4" part="cap_100nF_16v_0402" description=""/>
+      <property name="MPN" value="CL05B104KO5NNNC"/>
+      <property name="Mfg" value="Samsung"/>
+      <property name="Display value" value="0.1uF"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5b4de913-038e-4dc7-abe4-cbe22234e00f</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>10u</value>
+      <footprint>Bonsai_C4:C_0805</footprint>
+      <fields>
+        <field name="LCSC">C90544</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C90544"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>efde65c1-fc07-4988-9264-058fec0dd991</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>100n</value>
+      <footprint>Bonsai_C4:C_0805</footprint>
+      <fields>
+        <field name="LCSC">C495959</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C495959"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7429d439-35ef-41e0-b11d-2714cfa298e5</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>100n</value>
+      <footprint>Bonsai_C4:C_0805</footprint>
+      <fields>
+        <field name="LCSC">C495959</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C495959"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a8bc7de5-95b5-4ae6-9843-baf3c75b018c</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>100n</value>
+      <footprint>Bonsai_C4:C_0805</footprint>
+      <fields>
+        <field name="LCSC">C495959</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C495959"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f41283ee-44b5-4bcc-867a-d5bd11865b17</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>100n</value>
+      <footprint>Bonsai_C4:C_0805</footprint>
+      <fields>
+        <field name="LCSC">C495959</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C495959"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d658f50d-d2c2-4555-bbe6-255eca406388</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>100n</value>
+      <footprint>Bonsai_C4:C_0805</footprint>
+      <fields>
+        <field name="LCSC">C495959</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C495959"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2352ae60-62de-4ca5-ba31-29ce8d53c08f</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>PMEG2010AEB</value>
+      <footprint>Bonsai_C4:D_SOD-523</footprint>
+      <fields>
+        <field name="LCSC">C282563</field>
+      </fields>
+      <libsource lib="Bonsai_C4" part="PMEG2010AEB" description="20V 1A Schottky Diode, SOD-123"/>
+      <property name="LCSC" value="C282563"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a39f5f72-966f-4269-b3d0-e665a8ca8236</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>SMF5.0A</value>
+      <footprint>Bonsai_C4:D_SOD-123FL</footprint>
+      <fields>
+        <field name="LCSC">C193402</field>
+      </fields>
+      <libsource lib="Bonsai_C4" part="SMF5.0A" description="Unidirectional TVS, 5V"/>
+      <property name="LCSC" value="C193402"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60c6a2ca-377c-401d-a9fc-4dd480feab63</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>1N4148</value>
+      <footprint>Bonsai_C4:D_SOD-523</footprint>
+      <fields>
+        <field name="LCSC">C414017</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C414017"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2ddfdc2d-c75e-47fc-8947-2f2a5cd53679</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>PMEG2010AEB</value>
+      <footprint>Bonsai_C4:D_SOD-523</footprint>
+      <fields>
+        <field name="LCSC">C282563</field>
+      </fields>
+      <libsource lib="Bonsai_C4" part="PMEG2010AEB" description="20V 1A Schottky Diode, SOD-123"/>
+      <property name="LCSC" value="C282563"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f6cdee0b-c9d8-4487-9317-128d3142c2f7</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>SMD-LED-WHITE_0402_</value>
+      <footprint>Bonsai_C4:LED_0402</footprint>
+      <fields>
+        <field name="LCSC">C74342</field>
+        <field name="MPN">16-219A/T2D-AR2T1QY/3T</field>
+      </fields>
+      <libsource lib="Bonsai_C4" part="SMD-LED-WHITE_0402_" description=""/>
+      <property name="MPN" value="16-219A/T2D-AR2T1QY/3T"/>
+      <property name="LCSC" value="C74342"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1270e31c-85cf-450e-bdd8-687227d0e8e1</tstamps>
+    </comp>
+    <comp ref="Da1">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3987adbd-1ed1-4141-a28f-d3a43c8b0c9f</tstamps>
+    </comp>
+    <comp ref="Da2">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e1c99760-3d54-4d18-a604-77dfa73f9501</tstamps>
+    </comp>
+    <comp ref="Da3">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>81a3c174-ee17-4dc6-93db-7277e558070b</tstamps>
+    </comp>
+    <comp ref="Da4">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa984144-e589-46b6-9cc6-06a7454e2af9</tstamps>
+    </comp>
+    <comp ref="Da5">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38889f1f-e06f-47f5-b02c-7cb9e0b6850f</tstamps>
+    </comp>
+    <comp ref="Da6">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>98711004-efc9-4944-9993-21586e7a11f7</tstamps>
+    </comp>
+    <comp ref="Da7">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>847ce9f3-8cef-420e-b9d1-8318b90032d0</tstamps>
+    </comp>
+    <comp ref="Db1">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5631416b-1023-40de-9fe0-0e5ac0fb15b2</tstamps>
+    </comp>
+    <comp ref="Db2">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>595c952b-b20f-490a-b847-10431b76cdbc</tstamps>
+    </comp>
+    <comp ref="Db3">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>63657830-fa64-4c17-8822-b2094766c9ac</tstamps>
+    </comp>
+    <comp ref="Db4">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b824620-9255-4420-9cbc-a1e4821a1b4c</tstamps>
+    </comp>
+    <comp ref="Db5">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5117c410-df6d-49f2-acdf-9591ea5d02cb</tstamps>
+    </comp>
+    <comp ref="Db6">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>55d510d4-a9b5-4ec1-bc1d-6acb8ee0f30a</tstamps>
+    </comp>
+    <comp ref="Dc1">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e9827ba2-2e0a-467d-ae5f-97903b83f177</tstamps>
+    </comp>
+    <comp ref="Dc2">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9d8dcf8c-90e0-4177-ac24-af20fe4bc87b</tstamps>
+    </comp>
+    <comp ref="Dc3">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>12fa6081-8385-4717-b57b-2019c6a7a104</tstamps>
+    </comp>
+    <comp ref="Dc4">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>698d732e-e82e-4ce3-867d-d0961023714d</tstamps>
+    </comp>
+    <comp ref="Dc5">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ceb40bc9-5235-492e-820d-a39a3b052e15</tstamps>
+    </comp>
+    <comp ref="Dc6">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bcfddf7c-5e4b-4cd0-9cec-290fe159d100</tstamps>
+    </comp>
+    <comp ref="Dd1">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ce301881-d4e2-46cd-9392-fe3b009b4ec4</tstamps>
+    </comp>
+    <comp ref="Dd2">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f6f66e77-bd35-4351-931c-2c6e54c0bf0a</tstamps>
+    </comp>
+    <comp ref="Dd3">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>df5afff3-0e78-4289-b766-ea8a9ec4bdfc</tstamps>
+    </comp>
+    <comp ref="Dd4">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>20b54bb7-ab67-4c78-ad4f-487259b3ea88</tstamps>
+    </comp>
+    <comp ref="Dd5">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>96103aec-7980-4a04-8aa5-5b4ea3138751</tstamps>
+    </comp>
+    <comp ref="Dd6">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b9c7fcff-4104-49a6-8e5b-05a9c9034b31</tstamps>
+    </comp>
+    <comp ref="Dd7">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f3255a82-c075-4720-a73c-63acc26bc917</tstamps>
+    </comp>
+    <comp ref="De1">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6e1126f2-ab30-40bc-a86a-7daed04ebdfd</tstamps>
+    </comp>
+    <comp ref="De2">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f8197f9b-da9a-44a3-8b33-da0c2c8b5e55</tstamps>
+    </comp>
+    <comp ref="De3">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c55670c9-be6d-4149-8b73-1625d353e96f</tstamps>
+    </comp>
+    <comp ref="De4">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eff3695c-2693-4fa7-98a2-a003abd7ab5c</tstamps>
+    </comp>
+    <comp ref="De6">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC">C81598</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="LCSC" value="C81598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e9f2d0b-f850-410e-8a4a-777fe5c73011</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>SMD-PPTC-500MA_0805_</value>
+      <footprint>Bonsai_C4:F0805</footprint>
+      <fields>
+        <field name="LCSC">C66452</field>
+        <field name="MPN">SMD0805-050</field>
+      </fields>
+      <libsource lib="Bonsai_C4" part="SMD-PPTC-500MA_0805_" description=""/>
+      <property name="MPN" value="SMD0805-050"/>
+      <property name="LCSC" value="C66452"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f28b8f91-c88d-4db4-bba6-c2f48d813c1e</tstamps>
+    </comp>
+    <comp ref="FB1">
+      <value>fb_0402_26ohm</value>
+      <footprint>Bonsai_C4:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Display value">26ohm</field>
+        <field name="LCSC">C668229</field>
+        <field name="MPN">CBG100505U260T</field>
+        <field name="Mfg">FH</field>
+      </fields>
+      <libsource lib="Bonsai_C4" part="fb_0402_26ohm" description=""/>
+      <property name="MPN" value="CBG100505U260T"/>
+      <property name="Mfg" value="FH"/>
+      <property name="Display value" value="26ohm"/>
+      <property name="LCSC" value="C668229"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>daf2a9b6-a3e6-4f28-bbbd-b429261f57d8</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>USB_EXT</value>
+      <footprint>Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12</footprint>
+      <datasheet>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</datasheet>
+      <fields>
+        <field name="LCSC">C165948</field>
+        <field name="Mouser">C165948</field>
+      </fields>
+      <libsource lib="keyboard-left-rescue" part="USB_C_Receptacle_USB2.0-Connector-keyboard-right-rescue" description=""/>
+      <property name="Mouser" value="C165948"/>
+      <property name="LCSC" value="C165948"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6bc244fe-c250-455d-ac0b-7504754369d5</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>USB_Link</value>
+      <footprint>Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12</footprint>
+      <datasheet>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</datasheet>
+      <fields>
+        <field name="LCSC">C165948</field>
+        <field name="Mouser">C165948</field>
+      </fields>
+      <libsource lib="keyboard-left-rescue" part="USB_C_Receptacle_USB2.0-Connector-keyboard-right-rescue" description=""/>
+      <property name="Mouser" value="C165948"/>
+      <property name="LCSC" value="C165948"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4eafc3df-e6c6-4f9a-8674-a99a2406b9d8</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x06</value>
+      <footprint>marbastlib-various:PogoPin_1x06_P2.5</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x06" description="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>61e79598-3bed-4775-8dd9-0a91baa30782</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>PAD_SQUARE_1MM</value>
+      <footprint>Bonsai_C4:PAD_SQUARE_1MM</footprint>
+      <libsource lib="Bonsai_C4" part="PAD_SQUARE_1MM" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aad4cb85-b2cf-4dab-aff9-685e771d5a14</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>PAD_SQUARE_1MM</value>
+      <footprint>Bonsai_C4:PAD_SQUARE_1MM</footprint>
+      <libsource lib="Bonsai_C4" part="PAD_SQUARE_1MM" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e0c2f312-6d7d-47de-8197-75e96a7f8319</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>PAD_SQUARE_1MM</value>
+      <footprint>Bonsai_C4:PAD_SQUARE_1MM</footprint>
+      <libsource lib="Bonsai_C4" part="PAD_SQUARE_1MM" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b9fac9a-e129-4f37-86e8-ff0ba4baa6b5</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>PAD_SQUARE_1MM</value>
+      <footprint>Bonsai_C4:PAD_SQUARE_1MM</footprint>
+      <libsource lib="Bonsai_C4" part="PAD_SQUARE_1MM" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8648148a-5c98-40b2-9680-0126e80300a8</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>PAD_SQUARE_1MM</value>
+      <footprint>Bonsai_C4:PAD_SQUARE_1MM</footprint>
+      <libsource lib="Bonsai_C4" part="PAD_SQUARE_1MM" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>339dcd51-139a-49dd-91f4-d00c9883ff6e</tstamps>
+    </comp>
+    <comp ref="JP1">
+      <value>SolderJumper_2_Open</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c230d5f1-1e63-458d-afee-2bfe3f2a14cd</tstamps>
+    </comp>
+    <comp ref="JP2">
+      <value>SolderJumper_2_Open</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8977094-9d98-46db-951f-7d87f2faf13c</tstamps>
+    </comp>
+    <comp ref="JP3">
+      <value>SolderJumper_3_Open</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels</footprint>
+      <libsource lib="Jumper" part="SolderJumper_3_Open" description="Solder Jumper, 3-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c369d6e6-1b9a-421f-89b9-55affedacf77</tstamps>
+    </comp>
+    <comp ref="JP4">
+      <value>SolderJumper_3_Open</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels</footprint>
+      <libsource lib="Jumper" part="SolderJumper_3_Open" description="Solder Jumper, 3-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>260fe75b-7b21-47f2-a461-02628b9ae0e6</tstamps>
+    </comp>
+    <comp ref="JP5">
+      <value>SolderJumper_3_Bridged12</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_3_Bridged12" description="3-pole Solder Jumper, pins 1+2 closed/bridged"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d6afde6-0ec8-4c32-bdb7-eb994a97e857</tstamps>
+    </comp>
+    <comp ref="JP6">
+      <value>SolderJumper_3_Open</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels</footprint>
+      <libsource lib="Jumper" part="SolderJumper_3_Open" description="Solder Jumper, 3-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3a487534-0fe4-4038-b123-ebe75b735bfe</tstamps>
+    </comp>
+    <comp ref="LEDa1">
+      <value>MX_SK6812MINI-E</value>
+      <footprint>marbastlib-mx:LED_MX_6028R-FLIPPED</footprint>
+      <fields>
+        <field name="LCSC">C5149201</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SK6812MINI-E" description="Reverse mount adressable LED (WS2812 protocol)"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc898a71-70d0-434b-aa15-08f452cd57e7</tstamps>
+    </comp>
+    <comp ref="LEDa2">
+      <value>MX_SK6812MINI-E</value>
+      <footprint>marbastlib-mx:LED_MX_6028R-FLIPPED</footprint>
+      <fields>
+        <field name="LCSC">C5149201</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SK6812MINI-E" description="Reverse mount adressable LED (WS2812 protocol)"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0b56c395-8f9c-4e99-93a5-0ac8ff1cde7d</tstamps>
+    </comp>
+    <comp ref="LEDa3">
+      <value>MX_SK6812MINI-E</value>
+      <footprint>marbastlib-mx:LED_MX_6028R-FLIPPED</footprint>
+      <fields>
+        <field name="LCSC">C5149201</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SK6812MINI-E" description="Reverse mount adressable LED (WS2812 protocol)"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d1572a9-74cf-48a5-9a8f-d6c44608c10c</tstamps>
+    </comp>
+    <comp ref="LEDa4">
+      <value>MX_SK6812MINI-E</value>
+      <footprint>marbastlib-mx:LED_MX_6028R-FLIPPED</footprint>
+      <fields>
+        <field name="LCSC">C5149201</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SK6812MINI-E" description="Reverse mount adressable LED (WS2812 protocol)"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2dca3f10-ed10-4c57-966b-c7f74e984b2b</tstamps>
+    </comp>
+    <comp ref="LEDa5">
+      <value>MX_SK6812MINI-E</value>
+      <footprint>marbastlib-mx:LED_MX_6028R-FLIPPED</footprint>
+      <fields>
+        <field name="LCSC">C5149201</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SK6812MINI-E" description="Reverse mount adressable LED (WS2812 protocol)"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>15d39652-ccd2-4e11-9600-4d51b0fa89e0</tstamps>
+    </comp>
+    <comp ref="LEDa6">
+      <value>MX_SK6812MINI-E</value>
+      <footprint>marbastlib-mx:LED_MX_6028R-FLIPPED</footprint>
+      <fields>
+        <field name="LCSC">C5149201</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SK6812MINI-E" description="Reverse mount adressable LED (WS2812 protocol)"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e40f4318-2a1c-41f4-8bf5-ce070eaf265b</tstamps>
+    </comp>
+    <comp ref="LEDa7">
+      <value>MX_SK6812MINI-E</value>
+      <footprint>marbastlib-mx:LED_MX_6028R-FLIPPED</footprint>
+      <fields>
+        <field name="LCSC">C5149201</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SK6812MINI-E" description="Reverse mount adressable LED (WS2812 protocol)"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bfcf4b6c-bbfe-481d-bbd7-d6bcdde10a69</tstamps>
+    </comp>
+    <comp ref="LEDb1">
+      <value>MX_SK6812MINI-E</value>
+      <footprint>marbastlib-mx:LED_MX_6028R</footprint>
+      <fields>
+        <field name="LCSC">C5149201</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SK6812MINI-E" description="Reverse mount adressable LED (WS2812 protocol)"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2f1bf358-fb9f-4edc-9441-e95a1eb2a50c</tstamps>
+    </comp>
+    <comp ref="LEDb2">
+      <value>MX_SK6812MINI-E</value>
+      <footprint>marbastlib-mx:LED_MX_6028R</footprint>
+      <fields>
+        <field name="LCSC">C5149201</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SK6812MINI-E" description="Reverse mount adressable LED (WS2812 protocol)"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>09eddf01-688d-4e4e-b0d5-f53f70f97af4</tstamps>
+    </comp>
+    <comp ref="LEDb3">
+      <value>MX_SK6812MINI-E</value>
+      <footprint>marbastlib-mx:LED_MX_6028R</footprint>
+      <fields>
+        <field name="LCSC">C5149201</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SK6812MINI-E" description="Reverse mount adressable LED (WS2812 protocol)"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3939fad0-bf2f-41ae-bc2c-ba10f7e97ba2</tstamps>
+    </comp>
+    <comp ref="LEDb4">
+      <value>MX_SK6812MINI-E</value>
+      <footprint>marbastlib-mx:LED_MX_6028R</footprint>
+      <fields>
+        <field name="LCSC">C5149201</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SK6812MINI-E" description="Reverse mount adressable LED (WS2812 protocol)"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1d832465-9927-4e41-8681-ea947606b41d</tstamps>
+    </comp>
+    <comp ref="LEDb5">
+      <value>MX_SK6812MINI-E</value>
+      <footprint>marbastlib-mx:LED_MX_6028R</footprint>
+      <fields>
+        <field name="LCSC">C5149201</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SK6812MINI-E" description="Reverse mount adressable LED (WS2812 protocol)"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>628e2db1-ff3e-4c95-a003-140fcd822178</tstamps>
+    </comp>
+    <comp ref="LEDb6">
+      <value>MX_SK6812MINI-E</value>
+      <footprint>marbastlib-mx:LED_MX_6028R</footprint>
+      <fields>
+        <field name="LCSC">C5149201</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SK6812MINI-E" description="Reverse mount adressable LED (WS2812 protocol)"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1fcff47a-f6eb-44d4-82cf-0774ca166f4f</tstamps>
+    </comp>
+    <comp ref="LEDc1">
+      <value>MX_SK6812MINI-E</value>
+      <footprint>marbastlib-mx:LED_MX_6028R-FLIPPED</footprint>
+      <fields>
+        <field name="LCSC">C5149201</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SK6812MINI-E" description="Reverse mount adressable LED (WS2812 protocol)"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>efe08d8b-3028-43c4-8ea1-e3f23c61c110</tstamps>
+    </comp>
+    <comp ref="LEDc2">
+      <value>MX_SK6812MINI-E</value>
+      <footprint>marbastlib-mx:LED_MX_6028R-FLIPPED</footprint>
+      <fields>
+        <field name="LCSC">C5149201</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SK6812MINI-E" description="Reverse mount adressable LED (WS2812 protocol)"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0aa18f8d-1722-40fb-a268-0220c2b4878c</tstamps>
+    </comp>
+    <comp ref="LEDc3">
+      <value>MX_SK6812MINI-E</value>
+      <footprint>marbastlib-mx:LED_MX_6028R-FLIPPED</footprint>
+      <fields>
+        <field name="LCSC">C5149201</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SK6812MINI-E" description="Reverse mount adressable LED (WS2812 protocol)"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8d773863-565d-4a17-b259-f1297031a51e</tstamps>
+    </comp>
+    <comp ref="LEDc4">
+      <value>MX_SK6812MINI-E</value>
+      <footprint>marbastlib-mx:LED_MX_6028R-FLIPPED</footprint>
+      <fields>
+        <field name="LCSC">C5149201</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SK6812MINI-E" description="Reverse mount adressable LED (WS2812 protocol)"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>33d973a6-5d6b-4880-9147-871155439e8b</tstamps>
+    </comp>
+    <comp ref="LEDc5">
+      <value>MX_SK6812MINI-E</value>
+      <footprint>marbastlib-mx:LED_MX_6028R-FLIPPED</footprint>
+      <fields>
+        <field name="LCSC">C5149201</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SK6812MINI-E" description="Reverse mount adressable LED (WS2812 protocol)"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02aa25e8-a68d-40ba-97ae-a98463bfe63b</tstamps>
+    </comp>
+    <comp ref="LEDc6">
+      <value>MX_SK6812MINI-E</value>
+      <footprint>marbastlib-mx:LED_MX_6028R-FLIPPED</footprint>
+      <fields>
+        <field name="LCSC">C5149201</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SK6812MINI-E" description="Reverse mount adressable LED (WS2812 protocol)"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>41d0bed0-fbb4-4d3a-b382-3f2783649af7</tstamps>
+    </comp>
+    <comp ref="LEDd1">
+      <value>MX_SK6812MINI-E</value>
+      <footprint>marbastlib-mx:LED_MX_6028R</footprint>
+      <fields>
+        <field name="LCSC">C5149201</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SK6812MINI-E" description="Reverse mount adressable LED (WS2812 protocol)"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1d9ad755-b538-4b06-b239-4b589bc185c3</tstamps>
+    </comp>
+    <comp ref="LEDd2">
+      <value>MX_SK6812MINI-E</value>
+      <footprint>marbastlib-mx:LED_MX_6028R</footprint>
+      <fields>
+        <field name="LCSC">C5149201</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SK6812MINI-E" description="Reverse mount adressable LED (WS2812 protocol)"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a0eb354f-70b4-4d61-b72f-62b7b74d5096</tstamps>
+    </comp>
+    <comp ref="LEDd3">
+      <value>MX_SK6812MINI-E</value>
+      <footprint>marbastlib-mx:LED_MX_6028R</footprint>
+      <fields>
+        <field name="LCSC">C5149201</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SK6812MINI-E" description="Reverse mount adressable LED (WS2812 protocol)"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b7c32dd8-7125-41bf-9f9f-cf1836600a56</tstamps>
+    </comp>
+    <comp ref="LEDd4">
+      <value>MX_SK6812MINI-E</value>
+      <footprint>marbastlib-mx:LED_MX_6028R</footprint>
+      <fields>
+        <field name="LCSC">C5149201</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SK6812MINI-E" description="Reverse mount adressable LED (WS2812 protocol)"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3563829e-d810-42aa-8569-42af3687bd19</tstamps>
+    </comp>
+    <comp ref="LEDd5">
+      <value>MX_SK6812MINI-E</value>
+      <footprint>marbastlib-mx:LED_MX_6028R</footprint>
+      <fields>
+        <field name="LCSC">C5149201</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SK6812MINI-E" description="Reverse mount adressable LED (WS2812 protocol)"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0b9ae051-b5c1-4299-bdf0-8c2205a4b2fa</tstamps>
+    </comp>
+    <comp ref="LEDd6">
+      <value>MX_SK6812MINI-E</value>
+      <footprint>marbastlib-mx:LED_MX_6028R</footprint>
+      <fields>
+        <field name="LCSC">C5149201</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SK6812MINI-E" description="Reverse mount adressable LED (WS2812 protocol)"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>889f634a-3447-4248-b82b-24b8350e6870</tstamps>
+    </comp>
+    <comp ref="LEDd7">
+      <value>MX_SK6812MINI-E</value>
+      <footprint>marbastlib-mx:LED_MX_6028R</footprint>
+      <fields>
+        <field name="LCSC">C5149201</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SK6812MINI-E" description="Reverse mount adressable LED (WS2812 protocol)"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad031fe8-abcb-4e23-8e86-c9775abbb22e</tstamps>
+    </comp>
+    <comp ref="LEDe1">
+      <value>MX_SK6812MINI-E</value>
+      <footprint>marbastlib-mx:LED_MX_6028R-FLIPPED</footprint>
+      <fields>
+        <field name="LCSC">C5149201</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SK6812MINI-E" description="Reverse mount adressable LED (WS2812 protocol)"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e34933b9-8a51-4e4e-a4e1-02eddcc99927</tstamps>
+    </comp>
+    <comp ref="LEDe2">
+      <value>MX_SK6812MINI-E</value>
+      <footprint>marbastlib-mx:LED_MX_6028R-FLIPPED</footprint>
+      <fields>
+        <field name="LCSC">C5149201</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SK6812MINI-E" description="Reverse mount adressable LED (WS2812 protocol)"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b1fdae7a-cd8b-4479-b36f-b977230bb498</tstamps>
+    </comp>
+    <comp ref="LEDe3">
+      <value>MX_SK6812MINI-E</value>
+      <footprint>marbastlib-mx:LED_MX_6028R-FLIPPED</footprint>
+      <fields>
+        <field name="LCSC">C5149201</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SK6812MINI-E" description="Reverse mount adressable LED (WS2812 protocol)"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>516b5cce-da70-49e0-bbf7-22187084ef8d</tstamps>
+    </comp>
+    <comp ref="LEDe4">
+      <value>MX_SK6812MINI-E</value>
+      <footprint>marbastlib-mx:LED_MX_6028R-FLIPPED</footprint>
+      <fields>
+        <field name="LCSC">C5149201</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SK6812MINI-E" description="Reverse mount adressable LED (WS2812 protocol)"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4178369b-1c10-4899-8046-4e464d23e3c6</tstamps>
+    </comp>
+    <comp ref="LEDe5">
+      <value>MX_SK6812MINI-E</value>
+      <footprint>marbastlib-mx:LED_MX_6028R-FLIPPED</footprint>
+      <fields>
+        <field name="LCSC">C5149201</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SK6812MINI-E" description="Reverse mount adressable LED (WS2812 protocol)"/>
+      <property name="LCSC" value="C5149201"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ef389dc-c2d8-4be2-bfc4-3e19c82f0065</tstamps>
+    </comp>
+    <comp ref="LS1">
+      <value>Speaker</value>
+      <footprint>Bonsai_C4:Buzzer_Mallory_AST1109MLTRQ</footprint>
+      <libsource lib="keyboard-left-rescue" part="Speaker-Device-keyboard-right-rescue" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d293eaf-716a-46ef-9a4f-d02f21769010</tstamps>
+    </comp>
+    <comp ref="MH1">
+      <value>2mm_mounting_hole</value>
+      <footprint>Bonsai_C4:MountingHole_2mm</footprint>
+      <libsource lib="Bonsai_C4" part="2mm_mounting_hole" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b4bcc93-4121-4e4b-b377-9ba5818451ae</tstamps>
+    </comp>
+    <comp ref="MH2">
+      <value>2mm_mounting_hole</value>
+      <footprint>Bonsai_C4:MountingHole_2mm</footprint>
+      <libsource lib="Bonsai_C4" part="2mm_mounting_hole" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f395f104-df4e-40f9-835d-c1ad5eefe5dd</tstamps>
+    </comp>
+    <comp ref="MH3">
+      <value>2mm_mounting_hole</value>
+      <footprint>Bonsai_C4:MountingHole_2mm</footprint>
+      <libsource lib="Bonsai_C4" part="2mm_mounting_hole" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3a8b5b9f-e829-42d8-936e-7c840a305434</tstamps>
+    </comp>
+    <comp ref="MH4">
+      <value>2mm_mounting_hole</value>
+      <footprint>Bonsai_C4:MountingHole_2mm</footprint>
+      <libsource lib="Bonsai_C4" part="2mm_mounting_hole" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6324dc88-d894-44e2-a90d-65fa77147264</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>MUN5311DW1T1G</value>
+      <footprint>Bonsai_C4:SOT-363_SC-70-6_SC-88</footprint>
+      <fields>
+        <field name="LCSC">C152542</field>
+      </fields>
+      <libsource lib="Bonsai_C4" part="MUN5311DW1T1G" description="1NPN,1PNP Pre-biased dual transistor, 10K/10K, SOT-23"/>
+      <property name="LCSC" value="C152542"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f7249487-ac2e-4d85-85a5-49b1f4d038c1</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>MUN5311DW1T1G</value>
+      <footprint>Bonsai_C4:SOT-363_SC-70-6_SC-88</footprint>
+      <fields>
+        <field name="LCSC">C152542</field>
+      </fields>
+      <libsource lib="Bonsai_C4" part="MUN5311DW1T1G" description="1NPN,1PNP Pre-biased dual transistor, 10K/10K, SOT-23"/>
+      <property name="LCSC" value="C152542"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c709655f-9b6c-455c-994a-d765b25e8381</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C104384</field>
+        <field name="Mouser">C27834</field>
+      </fields>
+      <libsource lib="keyboard-left-rescue" part="R-Device-keyboard-right-rescue" description=""/>
+      <property name="Mouser" value="C27834"/>
+      <property name="LCSC" value="C104384"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ac73277-d93d-45c4-89af-d4c2b52c87b7</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C104384</field>
+        <field name="Mouser">C27834</field>
+      </fields>
+      <libsource lib="keyboard-left-rescue" part="R-Device-keyboard-right-rescue" description=""/>
+      <property name="Mouser" value="C27834"/>
+      <property name="LCSC" value="C104384"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>16803043-4691-406c-8ff3-7a1ac9d35f70</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>r_100k_0402_1p</value>
+      <footprint>Bonsai_C4:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Display value">100k</field>
+        <field name="LCSC">C25741</field>
+        <field name="MPN">0402WGF1003TCE</field>
+      </fields>
+      <libsource lib="Bonsai_C4" part="r_100k_0402_1p" description=""/>
+      <property name="MPN" value="0402WGF1003TCE"/>
+      <property name="Display value" value="100k"/>
+      <property name="LCSC" value="C25741"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cb62887c-77f8-4619-87f5-bfa6c3b119d7</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>r_4.7k_0402_1p</value>
+      <footprint>Bonsai_C4:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Display value">4.7k</field>
+        <field name="LCSC">C25900</field>
+        <field name="MPN">0402WGF4701TCE</field>
+      </fields>
+      <libsource lib="Bonsai_C4" part="r_4.7k_0402_1p" description=""/>
+      <property name="MPN" value="0402WGF4701TCE"/>
+      <property name="Display value" value="4.7k"/>
+      <property name="LCSC" value="C25900"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>25f5170d-dc41-4d49-8f0e-c336c7142af6</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>r_10k_0402_1p</value>
+      <footprint>Bonsai_C4:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Display value">10k</field>
+        <field name="LCSC">C25744</field>
+        <field name="MPN">0402WGF1002TCE</field>
+      </fields>
+      <libsource lib="Bonsai_C4" part="r_10k_0402_1p" description=""/>
+      <property name="MPN" value="0402WGF1002TCE"/>
+      <property name="Display value" value="10k"/>
+      <property name="LCSC" value="C25744"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6cedbea7-e9f2-42ad-9725-e16e402781a7</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>r_75_0402_1p</value>
+      <footprint>Bonsai_C4:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Display value">75</field>
+        <field name="LCSC">C25133</field>
+        <field name="MPN">0402WGF750JTCE</field>
+        <field name="Mfg">Uniroyal</field>
+      </fields>
+      <libsource lib="Bonsai_C4" part="r_75_0402_1p" description=""/>
+      <property name="MPN" value="0402WGF750JTCE"/>
+      <property name="Mfg" value="Uniroyal"/>
+      <property name="Display value" value="75"/>
+      <property name="LCSC" value="C25133"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d68c0c7-5704-42ec-91c4-c587191491a4</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>r_470_0402_1p</value>
+      <footprint>Bonsai_C4:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Display value">470</field>
+        <field name="LCSC">C25117</field>
+        <field name="MPN">0402WGF4700TCE</field>
+        <field name="Mfg">Uniroyal</field>
+      </fields>
+      <libsource lib="Bonsai_C4" part="r_470_0402_1p" description=""/>
+      <property name="MPN" value="0402WGF4700TCE"/>
+      <property name="Mfg" value="Uniroyal"/>
+      <property name="Display value" value="470"/>
+      <property name="LCSC" value="C25117"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7461eee-afab-4b88-9c82-ba48020492d8</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>r_100k_0402_1p</value>
+      <footprint>Bonsai_C4:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Display value">100k</field>
+        <field name="LCSC">C25741</field>
+        <field name="MPN">0402WGF1003TCE</field>
+      </fields>
+      <libsource lib="Bonsai_C4" part="r_100k_0402_1p" description=""/>
+      <property name="MPN" value="0402WGF1003TCE"/>
+      <property name="Display value" value="100k"/>
+      <property name="LCSC" value="C25741"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>50ab38d1-5a36-4e0c-b421-e8194fad2838</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>r_75_0402_1p</value>
+      <footprint>Bonsai_C4:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Display value">75</field>
+        <field name="LCSC">C25133</field>
+        <field name="MPN">0402WGF750JTCE</field>
+        <field name="Mfg">Uniroyal</field>
+      </fields>
+      <libsource lib="Bonsai_C4" part="r_75_0402_1p" description=""/>
+      <property name="MPN" value="0402WGF750JTCE"/>
+      <property name="Mfg" value="Uniroyal"/>
+      <property name="Display value" value="75"/>
+      <property name="LCSC" value="C25133"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6c5a723d-e751-47c2-a659-3114c859a691</tstamps>
+    </comp>
+    <comp ref="S2">
+      <value>MX_stab</value>
+      <footprint>marbastlib-mx:STAB_MX_P_2.25u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_stab" description="Cherry MX-style stabilizer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a77a82f4-f737-4b6c-a8b7-4c19f369863f</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>Reset</value>
+      <footprint>Bonsai_C4:SW2-SMD-2.5X3.0X1.6MM</footprint>
+      <fields>
+        <field name="LCSC">C231330</field>
+        <field name="Mouser">C318884</field>
+      </fields>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Mouser" value="C318884"/>
+      <property name="LCSC" value="C231330"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c43385b-3e31-4d77-b7d8-2ac8add1ec4a</tstamps>
+    </comp>
+    <comp ref="SWa1">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <fields>
+        <field name="LCSC">C5184526</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="LCSC" value="C5184526"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ffe0ca14-a73a-4695-87dc-4c1e1d52d56d</tstamps>
+    </comp>
+    <comp ref="SWa2">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <fields>
+        <field name="LCSC">C5184526</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="LCSC" value="C5184526"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>67ac23c9-ee41-428b-8423-fa62f827b761</tstamps>
+    </comp>
+    <comp ref="SWa3">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <fields>
+        <field name="LCSC">C5184526</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="LCSC" value="C5184526"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3421feed-3e1a-4f43-840a-389059f1f4c6</tstamps>
+    </comp>
+    <comp ref="SWa4">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <fields>
+        <field name="LCSC">C5184526</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="LCSC" value="C5184526"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6485f786-1ca5-457b-94ac-c1578a244d83</tstamps>
+    </comp>
+    <comp ref="SWa5">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <fields>
+        <field name="LCSC">C5184526</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="LCSC" value="C5184526"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e582e380-ebf9-4d2a-b14e-ba7680667fd8</tstamps>
+    </comp>
+    <comp ref="SWa6">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <fields>
+        <field name="LCSC">C5184526</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="LCSC" value="C5184526"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>de12e423-80ed-4d42-a98d-a47eec2801ba</tstamps>
+    </comp>
+    <comp ref="SWa7">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <fields>
+        <field name="LCSC">C5184526</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="LCSC" value="C5184526"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ce65584c-e1d2-42d8-8dff-4118f850b334</tstamps>
+    </comp>
+    <comp ref="SWb1">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1.5u</footprint>
+      <fields>
+        <field name="LCSC">C5184526</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="LCSC" value="C5184526"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>922d2f34-7fdb-49ad-a03e-4d8144479c3a</tstamps>
+    </comp>
+    <comp ref="SWb2">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <fields>
+        <field name="LCSC">C5184526</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="LCSC" value="C5184526"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad1b1a5a-e233-404f-a8be-1341f43ff4d1</tstamps>
+    </comp>
+    <comp ref="SWb3">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <fields>
+        <field name="LCSC">C5184526</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="LCSC" value="C5184526"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>166a78a9-13f8-4181-8616-36358f9fca2a</tstamps>
+    </comp>
+    <comp ref="SWb4">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <fields>
+        <field name="LCSC">C5184526</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="LCSC" value="C5184526"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>58c4aedb-082e-47d1-8a73-f92c5939e3a7</tstamps>
+    </comp>
+    <comp ref="SWb5">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <fields>
+        <field name="LCSC">C5184526</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="LCSC" value="C5184526"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d0d64746-4a78-4d61-baa5-47435d02a6ae</tstamps>
+    </comp>
+    <comp ref="SWb6">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <fields>
+        <field name="LCSC">C5184526</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="LCSC" value="C5184526"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>af8008d7-628e-4cca-9c22-51da385e8d65</tstamps>
+    </comp>
+    <comp ref="SWc1">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1.75u</footprint>
+      <fields>
+        <field name="LCSC">C5184526</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="LCSC" value="C5184526"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5e2a86f9-41d8-4991-a563-307e0d733a35</tstamps>
+    </comp>
+    <comp ref="SWc2">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <fields>
+        <field name="LCSC">C5184526</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="LCSC" value="C5184526"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d1703ff0-71ee-4720-80bd-1a511f35c17a</tstamps>
+    </comp>
+    <comp ref="SWc3">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <fields>
+        <field name="LCSC">C5184526</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="LCSC" value="C5184526"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d5935cd8-778f-4127-9ead-2aa86b87e57b</tstamps>
+    </comp>
+    <comp ref="SWc4">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <fields>
+        <field name="LCSC">C5184526</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="LCSC" value="C5184526"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cf832f6e-63a4-4193-aa78-52a53d8a900f</tstamps>
+    </comp>
+    <comp ref="SWc5">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <fields>
+        <field name="LCSC">C5184526</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="LCSC" value="C5184526"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ec3d3d84-09ad-4935-8c90-381452b4853a</tstamps>
+    </comp>
+    <comp ref="SWc6">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <fields>
+        <field name="LCSC">C5184526</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="LCSC" value="C5184526"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38724ccc-720f-444b-a4a9-f1bb42a5926b</tstamps>
+    </comp>
+    <comp ref="SWd1">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1.25u</footprint>
+      <fields>
+        <field name="LCSC">C5184526</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="LCSC" value="C5184526"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3142ca13-db3a-44b9-9c62-67790bd38b6d</tstamps>
+    </comp>
+    <comp ref="SWd2">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <fields>
+        <field name="LCSC">C5184526</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="LCSC" value="C5184526"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>050da754-74bd-4312-8bcd-048adbeb57ab</tstamps>
+    </comp>
+    <comp ref="SWd3">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <fields>
+        <field name="LCSC">C5184526</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="LCSC" value="C5184526"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f47db934-4947-44ff-a709-91ad350165e9</tstamps>
+    </comp>
+    <comp ref="SWd4">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <fields>
+        <field name="LCSC">C5184526</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="LCSC" value="C5184526"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e20f868-02ad-42fb-a310-0d502b2395ad</tstamps>
+    </comp>
+    <comp ref="SWd5">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <fields>
+        <field name="LCSC">C5184526</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="LCSC" value="C5184526"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a39e13b0-05f9-47fb-b6a5-c86a662afefa</tstamps>
+    </comp>
+    <comp ref="SWd6">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <fields>
+        <field name="LCSC">C5184526</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="LCSC" value="C5184526"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4937daa9-58de-4159-846d-2274af442564</tstamps>
+    </comp>
+    <comp ref="SWd7">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
+      <fields>
+        <field name="LCSC">C5184526</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="LCSC" value="C5184526"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8fc14c85-195a-4ce1-ad45-5f3fd6d35b4a</tstamps>
+    </comp>
+    <comp ref="SWe1">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1.25u</footprint>
+      <fields>
+        <field name="LCSC">C5184526</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="LCSC" value="C5184526"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>be390df4-1568-477e-91df-c9bb6d66c4c6</tstamps>
+    </comp>
+    <comp ref="SWe2">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1.25u</footprint>
+      <fields>
+        <field name="LCSC">C5184526</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="LCSC" value="C5184526"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8bc963f0-b5ba-47ed-9818-d7fc294ca600</tstamps>
+    </comp>
+    <comp ref="SWe3">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1.25u</footprint>
+      <fields>
+        <field name="LCSC">C5184526</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="LCSC" value="C5184526"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9df529c2-a4c8-4f80-bac9-1a5c653e0638</tstamps>
+    </comp>
+    <comp ref="SWe4">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1.25u</footprint>
+      <fields>
+        <field name="LCSC">C5184526</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="LCSC" value="C5184526"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b12e582b-6347-4108-bb3c-69263b494cf7</tstamps>
+    </comp>
+    <comp ref="SWe6">
+      <value>MX_SW_HS</value>
+      <footprint>marbastlib-mx:SW_MX_HS_1.25u</footprint>
+      <fields>
+        <field name="LCSC">C5184526</field>
+      </fields>
+      <libsource lib="keyboard-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="LCSC" value="C5184526"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ceaa620-1077-4e30-ad7c-733d01262baa</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>TS3A27518ERTW</value>
+      <footprint>Package_DFN_QFN:WQFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/ts3a27518e.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C2651937</field>
+      </fields>
+      <libsource lib="Analog_Switch" part="TS3A27518ERTW" description="6-channel analog mux, WQFN-24"/>
+      <property name="LCSC" value="C2651937"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e42f41b9-8348-40b7-9426-0d17d601da64</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>SRV05-4</value>
+      <footprint>Bonsai_C4:SOT-23-6</footprint>
+      <datasheet>http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF</datasheet>
+      <fields>
+        <field name="LCSC">C85364</field>
+      </fields>
+      <libsource lib="Bonsai_C4" part="SRV05-4" description="ESD Protection Diodes with Low Clamping Voltage, SOT-23-6"/>
+      <property name="LCSC" value="C85364"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4bd603ca-8355-490e-be2f-68a28f248806</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>STM32F411CEU6</value>
+      <footprint>Bonsai_C4:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm_ThermalVias</footprint>
+      <fields>
+        <field name="LCSC">C60420</field>
+      </fields>
+      <libsource lib="Bonsai_C4" part="STM32F411CEU6" description="ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 100MHz, 1.7-3.6V, 37 GPIO, LQFN-48"/>
+      <property name="LCSC" value="C60420"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>217351bf-9b2e-41c2-bf9d-050aedb94d85</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>MB85RS64PNF-G-JNERE1</value>
+      <footprint>Bonsai_C4:SOP-8_3.9x4.9mm_P1.27mm</footprint>
+      <fields>
+        <field name="LCSC">C8741</field>
+      </fields>
+      <libsource lib="Bonsai_C4" part="MB85RS64PNF-G-JNERE1" description="64Kb serial FRAM nonvolatile Memory, SOP-8"/>
+      <property name="LCSC" value="C8741"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c599fb1-340c-4298-bc5b-078da3cfa77d</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>AAP2967-33VIR1</value>
+      <footprint>Bonsai_C4:SOT-23-5</footprint>
+      <fields>
+        <field name="LCSC">C370742</field>
+      </fields>
+      <libsource lib="Bonsai_C4" part="AAP2967-33VIR1" description="300mA Low-dropout Voltage Regulator, Vout 3.3V, Vin up to 5.5V, SOT-23"/>
+      <property name="LCSC" value="C370742"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>09f27629-a866-4b55-b341-ef381f1a67ce</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>SN74LV1T34DCKR</value>
+      <footprint>Bonsai_C4:SOT-353_SC-70-5</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/sn74lvc1g14.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C78541</field>
+      </fields>
+      <libsource lib="Bonsai_C4" part="SN74LV1T34DCKR" description="Single Buffer, SC70-5"/>
+      <property name="LCSC" value="C78541"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b65776f5-f83b-4367-8a24-b2d4b96d4795</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>W25Q128JVSIQ</value>
+      <footprint>Bonsai_C4:SOIC-8_5.23x5.23mm_P1.27mm</footprint>
+      <datasheet>http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C97521</field>
+      </fields>
+      <libsource lib="Bonsai_C4" part="W25Q128JVSIQ" description="128Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8"/>
+      <property name="LCSC" value="C97521"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dc512ed4-5f49-4dda-81f0-e1bbcd5a5003</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>SN74LV1T34DCKR</value>
+      <footprint>Bonsai_C4:SOT-353_SC-70-5</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/sn74lvc1g14.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C78541</field>
+      </fields>
+      <libsource lib="Bonsai_C4" part="SN74LV1T34DCKR" description="Single Buffer, SC70-5"/>
+      <property name="LCSC" value="C78541"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>89e2a4a5-06f3-4934-b1eb-64408ec9ebaf</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>SMD-CRYSTAL-8MHZ-20PF-10PPM_2P-5.0X3.2MM_</value>
+      <footprint>Bonsai_C4:X2-SMD-5.0X3.2X1.3MM</footprint>
+      <fields>
+        <field name="LCSC">C115962</field>
+        <field name="MPN">X50328MSB2GI</field>
+      </fields>
+      <libsource lib="Bonsai_C4" part="SMD-CRYSTAL-8MHZ-20PF-10PPM_2P-5.0X3.2MM_" description=""/>
+      <property name="MPN" value="X50328MSB2GI"/>
+      <property name="LCSC" value="C115962"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lakemountain.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e9236a14-1811-4348-b541-a23a2be67277</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Analog_Switch" part="TS3A27518ERTW">
+      <description>6-channel analog mux, WQFN-24</description>
+      <docs>http://www.ti.com/lit/ds/symlink/ts3a27518e.pdf</docs>
+      <footprints>
+        <fp>WQFN*4x4mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TS3A27518ERTW</field>
+        <field name="Footprint">Package_DFN_QFN:WQFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/ts3a27518e.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="COM1" type="bidirectional"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="COM2" type="bidirectional"/>
+        <pin num="4" name="COM3" type="bidirectional"/>
+        <pin num="5" name="VCC" type="power_in"/>
+        <pin num="6" name="COM4" type="bidirectional"/>
+        <pin num="7" name="COM5" type="bidirectional"/>
+        <pin num="8" name="NO1" type="bidirectional"/>
+        <pin num="9" name="COM6" type="bidirectional"/>
+        <pin num="10" name="NO2" type="bidirectional"/>
+        <pin num="11" name="IN2" type="input"/>
+        <pin num="12" name="NO3" type="bidirectional"/>
+        <pin num="13" name="NO6" type="bidirectional"/>
+        <pin num="14" name="NO4" type="bidirectional"/>
+        <pin num="15" name="NO5" type="bidirectional"/>
+        <pin num="16" name="NC5" type="bidirectional"/>
+        <pin num="17" name="~{EN}" type="input"/>
+        <pin num="18" name="NC4" type="bidirectional"/>
+        <pin num="19" name="NC6" type="bidirectional"/>
+        <pin num="20" name="NC3" type="bidirectional"/>
+        <pin num="21" name="IN1" type="input"/>
+        <pin num="22" name="NC2" type="bidirectional"/>
+        <pin num="23" name="NC1" type="bidirectional"/>
+        <pin num="24" name="N.C." type="no_connect"/>
+        <pin num="25" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Bonsai_C4" part="2mm_mounting_hole">
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">MH</field>
+        <field name="Value">2mm_mounting_hole</field>
+        <field name="Footprint">Bonsai_C4:MountingHole_2mm</field>
+      </fields>
+    </libpart>
+    <libpart lib="Bonsai_C4" part="AAP2967-33VIR1">
+      <description>300mA Low-dropout Voltage Regulator, Vout 3.3V, Vin up to 5.5V, SOT-23</description>
+      <footprints>
+        <fp>SOT?23?5*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AAP2967-33VIR1</field>
+        <field name="Footprint">Bonsai_C4:SOT-23-5</field>
+        <field name="LCSC"> C370742</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VIN" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="NC" type="no_connect"/>
+        <pin num="5" name="VOUT" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Bonsai_C4" part="MB85RS64PNF-G-JNERE1">
+      <description>64Kb serial FRAM nonvolatile Memory, SOP-8</description>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MB85RS64PNF-G-JNERE1</field>
+        <field name="Footprint">Bonsai_C4:SOP-8_3.9x4.9mm_P1.27mm</field>
+        <field name="LCSC">C8741</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~{CS}" type="input"/>
+        <pin num="2" name="SO" type="output"/>
+        <pin num="3" name="~{WP}" type="input"/>
+        <pin num="4" name="VSS" type="power_in"/>
+        <pin num="5" name="SI" type="bidirectional"/>
+        <pin num="6" name="SCK" type="input"/>
+        <pin num="7" name="~{HOLD}" type="input"/>
+        <pin num="8" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Bonsai_C4" part="MUN5311DW1T1G">
+      <description>1NPN,1PNP Pre-biased dual transistor, 10K/10K, SOT-23</description>
+      <footprints>
+        <fp>SOT?23*</fp>
+        <fp>SC?59*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">MUN5311DW1T1G</field>
+        <field name="Footprint">Bonsai_C4:SOT-363_SC-70-6_SC-88</field>
+        <field name="LCSC">C152542</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="B" type="input"/>
+        <pin num="3" name="C" type="passive"/>
+        <pin num="4" name="E" type="passive"/>
+        <pin num="5" name="5" type="input"/>
+        <pin num="6" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Bonsai_C4" part="PAD_SQUARE_1MM">
+      <footprints>
+        <fp>*H4-2.54*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">PAD_SQUARE_1MM</field>
+        <field name="Footprint">Bonsai_C4:PAD_SQUARE_1MM</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Bonsai_C4" part="PMEG2010AEB">
+      <description>20V 1A Schottky Diode, SOD-123</description>
+      <footprints>
+        <fp>D*SOD?123*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">PMEG2010AEB</field>
+        <field name="Footprint">Bonsai_C4:D_SOD-523</field>
+        <field name="LCSC">C282563</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Bonsai_C4" part="SMD-CRYSTAL-8MHZ-20PF-10PPM_2P-5.0X3.2MM_">
+      <footprints>
+        <fp>*X2-SMD-5.0X3.2X1.3MM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">SMD-CRYSTAL-8MHZ-20PF-10PPM_2P-5.0X3.2MM_</field>
+        <field name="Footprint">Bonsai_C4:X2-SMD-5.0X3.2X1.3MM</field>
+        <field name="MPN">X50328MSB2GI</field>
+        <field name="LCSC">C115962</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Bonsai_C4" part="SMD-LED-WHITE_0402_">
+      <footprints>
+        <fp>*LED-0603*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">SMD-LED-WHITE_0402_</field>
+        <field name="Footprint">Bonsai_C4:LED_0402</field>
+        <field name="MPN">16-219A/T2D-AR2T1QY/3T</field>
+        <field name="LCSC">C74342</field>
+      </fields>
+      <pins>
+        <pin num="+" name="+" type="passive"/>
+        <pin num="-" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Bonsai_C4" part="SMD-PPTC-500MA_0805_">
+      <footprints>
+        <fp>*F1206*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">SMD-PPTC-500MA_0805_</field>
+        <field name="Footprint">Bonsai_C4:F0805</field>
+        <field name="MPN">SMD0805-050</field>
+        <field name="LCSC">C66452</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="bidirectional"/>
+        <pin num="2" name="2" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Bonsai_C4" part="SMF5.0A">
+      <description>Unidirectional TVS, 5V</description>
+      <footprints>
+        <fp>D?DO?201AE*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">SMF5.0A</field>
+        <field name="Footprint">Bonsai_C4:D_SOD-123FL</field>
+        <field name="LCSC">C193402</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A1" type="passive"/>
+        <pin num="2" name="A2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Bonsai_C4" part="SN74LV1T34DCKR">
+      <description>Single Buffer, SC70-5</description>
+      <docs>http://www.ti.com/lit/ds/symlink/sn74lvc1g14.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SN74LV1T34DCKR</field>
+        <field name="Footprint">Bonsai_C4:SOT-353_SC-70-5</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/sn74lvc1g14.pdf</field>
+        <field name="LCSC">C78541</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NC" type="no_connect"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="" type="output"/>
+        <pin num="5" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Bonsai_C4" part="SRV05-4">
+      <description>ESD Protection Diodes with Low Clamping Voltage, SOT-23-6</description>
+      <docs>http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SRV05-4</field>
+        <field name="Footprint">Bonsai_C4:SOT-23-6</field>
+        <field name="Datasheet">http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF</field>
+        <field name="LCSC">C85364</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IO1" type="passive"/>
+        <pin num="2" name="VN" type="passive"/>
+        <pin num="3" name="IO2" type="passive"/>
+        <pin num="4" name="IO3" type="passive"/>
+        <pin num="5" name="VP" type="passive"/>
+        <pin num="6" name="IO4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Bonsai_C4" part="STM32F411CEU6">
+      <description>ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 100MHz, 1.7-3.6V, 37 GPIO, LQFN-48</description>
+      <footprints>
+        <fp>LQFP*7x7mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">STM32F411CEU6</field>
+        <field name="Footprint">Bonsai_C4:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm_ThermalVias</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBAT" type="power_in"/>
+        <pin num="2" name="PC13" type="bidirectional"/>
+        <pin num="3" name="PC14" type="bidirectional"/>
+        <pin num="4" name="PC15" type="bidirectional"/>
+        <pin num="5" name="PH0-OSC_IN" type="input"/>
+        <pin num="6" name="PH0-OSC_OUT" type="input"/>
+        <pin num="7" name="NRST" type="input"/>
+        <pin num="8" name="VSSA" type="power_in"/>
+        <pin num="9" name="VDDA" type="power_in"/>
+        <pin num="10" name="PA0" type="bidirectional"/>
+        <pin num="11" name="PA1" type="bidirectional"/>
+        <pin num="12" name="PA2" type="bidirectional"/>
+        <pin num="13" name="PA3" type="bidirectional"/>
+        <pin num="14" name="PA4" type="bidirectional"/>
+        <pin num="15" name="PA5" type="bidirectional"/>
+        <pin num="16" name="PA6" type="bidirectional"/>
+        <pin num="17" name="PA7" type="bidirectional"/>
+        <pin num="18" name="PB0" type="bidirectional"/>
+        <pin num="19" name="PB1" type="bidirectional"/>
+        <pin num="20" name="PB2" type="bidirectional"/>
+        <pin num="21" name="PB10" type="bidirectional"/>
+        <pin num="22" name="VCAP_1" type="bidirectional"/>
+        <pin num="23" name="VSS" type="power_in"/>
+        <pin num="24" name="VDD" type="power_in"/>
+        <pin num="25" name="PB12" type="bidirectional"/>
+        <pin num="26" name="PB13" type="bidirectional"/>
+        <pin num="27" name="PB14" type="bidirectional"/>
+        <pin num="28" name="PB15" type="bidirectional"/>
+        <pin num="29" name="PA8" type="bidirectional"/>
+        <pin num="30" name="PA9" type="bidirectional"/>
+        <pin num="31" name="PA10" type="bidirectional"/>
+        <pin num="32" name="PA11" type="bidirectional"/>
+        <pin num="33" name="PA12" type="bidirectional"/>
+        <pin num="34" name="PA13" type="bidirectional"/>
+        <pin num="35" name="VSS" type="power_in"/>
+        <pin num="36" name="VDD" type="power_in"/>
+        <pin num="37" name="PA14" type="bidirectional"/>
+        <pin num="38" name="PA15" type="bidirectional"/>
+        <pin num="39" name="PB3" type="bidirectional"/>
+        <pin num="40" name="PB4" type="bidirectional"/>
+        <pin num="41" name="PB5" type="bidirectional"/>
+        <pin num="42" name="PB6" type="bidirectional"/>
+        <pin num="43" name="PB7" type="bidirectional"/>
+        <pin num="44" name="BOOT0" type="input"/>
+        <pin num="45" name="PB8" type="bidirectional"/>
+        <pin num="46" name="PB9" type="bidirectional"/>
+        <pin num="47" name="VSS" type="power_in"/>
+        <pin num="48" name="VDD" type="power_in"/>
+        <pin num="49" name="EP" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Bonsai_C4" part="W25Q128JVSIQ">
+      <description>128Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8</description>
+      <docs>http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf</docs>
+      <footprints>
+        <fp>SOIC*5.23x5.23mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">W25Q128JVSIQ</field>
+        <field name="Footprint">Bonsai_C4:SOIC-8_5.23x5.23mm_P1.27mm</field>
+        <field name="Datasheet">http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf</field>
+        <field name="LCSC">C97521</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~{CS}" type="input"/>
+        <pin num="2" name="DO(IO1)" type="bidirectional"/>
+        <pin num="3" name="IO2" type="bidirectional"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="DI(IO0)" type="bidirectional"/>
+        <pin num="6" name="CLK" type="input"/>
+        <pin num="7" name="IO3" type="bidirectional"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Bonsai_C4" part="cap_100nF_16v_0402">
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">cap_100nF_16v_0402</field>
+        <field name="Footprint">Bonsai_C4:C_0402_1005Metric</field>
+        <field name="MPN">CL05B104KO5NNNC</field>
+        <field name="Mfg">Samsung</field>
+        <field name="Display value">0.1uF</field>
+        <field name="LCSC">C1525</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Bonsai_C4" part="cap_10uF_10v_0402">
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">cap_10uF_10v_0402</field>
+        <field name="Footprint">Bonsai_C4:C_0402_1005Metric</field>
+        <field name="MPN">CL10A106KP8NNNC</field>
+        <field name="Mfg">Samsung</field>
+        <field name="Display value">10uF</field>
+        <field name="LCSC">C19702</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Bonsai_C4" part="cap_1uF_10v_0402">
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">cap_1uF_10v_0402</field>
+        <field name="Footprint">Bonsai_C4:C_0402_1005Metric</field>
+        <field name="MPN">CL05A105KA5NQNC</field>
+        <field name="Mfg">Samsung</field>
+        <field name="Display value">1uF</field>
+        <field name="LCSC">C52923</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Bonsai_C4" part="cap_20pF_50v_0402">
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">cap_20pF_50v_0402</field>
+        <field name="Footprint">Bonsai_C4:C_0402_1005Metric</field>
+        <field name="MPN">0402CG200J500NT</field>
+        <field name="Mfg">Guangdong Fenghua Advanced Tech</field>
+        <field name="Display value">20pF</field>
+        <field name="LCSC">C1554</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Bonsai_C4" part="cap_4.7uF_10v_0402">
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">cap_4.7uF_10v_0402</field>
+        <field name="Footprint">Bonsai_C4:C_0402_1005Metric</field>
+        <field name="MPN">CL05A475MP5NRNC</field>
+        <field name="Mfg">Samsung</field>
+        <field name="Display value">4.7uF</field>
+        <field name="LCSC">C23733</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Bonsai_C4" part="fb_0402_26ohm">
+      <footprints>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+        <fp>*Ferrite*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">FB</field>
+        <field name="Value">fb_0402_26ohm</field>
+        <field name="Footprint">Bonsai_C4:R_0402_1005Metric</field>
+        <field name="MPN">CBG100505U260T</field>
+        <field name="Mfg">FH</field>
+        <field name="Display value">26ohm</field>
+        <field name="LCSC">C668229</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Bonsai_C4" part="r_100k_0402_1p">
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">r_100k_0402_1p</field>
+        <field name="Footprint">Bonsai_C4:R_0402_1005Metric</field>
+        <field name="MPN">0402WGF1003TCE</field>
+        <field name="Display value">100k</field>
+        <field name="LCSC">C25741</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Bonsai_C4" part="r_10k_0402_1p">
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">r_10k_0402_1p</field>
+        <field name="Footprint">Bonsai_C4:R_0402_1005Metric</field>
+        <field name="MPN">0402WGF1002TCE</field>
+        <field name="Display value">10k</field>
+        <field name="LCSC">C25744</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Bonsai_C4" part="r_4.7k_0402_1p">
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">r_4.7k_0402_1p</field>
+        <field name="Footprint">Bonsai_C4:R_0402_1005Metric</field>
+        <field name="MPN">0402WGF4701TCE</field>
+        <field name="Display value">4.7k</field>
+        <field name="LCSC">C25900</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Bonsai_C4" part="r_470_0402_1p">
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">r_470_0402_1p</field>
+        <field name="Footprint">Bonsai_C4:R_0402_1005Metric</field>
+        <field name="MPN">0402WGF4700TCE</field>
+        <field name="Mfg">Uniroyal</field>
+        <field name="Display value">470</field>
+        <field name="LCSC">C25117</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Bonsai_C4" part="r_75_0402_1p">
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">r_75_0402_1p</field>
+        <field name="Footprint">Bonsai_C4:R_0402_1005Metric</field>
+        <field name="MPN">0402WGF750JTCE</field>
+        <field name="Mfg">Uniroyal</field>
+        <field name="Display value">75</field>
+        <field name="LCSC">C25133</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x06">
+      <description>Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x06</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D">
+      <description>Diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="SolderJumper_2_Open">
+      <description>Solder Jumper, 2-pole, open</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SolderJumper*Open*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">SolderJumper_2_Open</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="SolderJumper_3_Bridged12">
+      <description>3-pole Solder Jumper, pins 1+2 closed/bridged</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SolderJumper*Bridged12*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">SolderJumper_3_Bridged12</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="C" type="passive"/>
+        <pin num="3" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="SolderJumper_3_Open">
+      <description>Solder Jumper, 3-pole, open</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SolderJumper*Open*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">SolderJumper_3_Open</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="C" type="passive"/>
+        <pin num="3" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="keyboard-left-rescue" part="R-Device-keyboard-right-rescue">
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R-Device-keyboard-right-rescue</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="keyboard-left-rescue" part="Speaker-Device-keyboard-right-rescue">
+      <fields>
+        <field name="Reference">LS</field>
+        <field name="Value">Speaker-Device-keyboard-right-rescue</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+        <pin num="2" name="2" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="keyboard-left-rescue" part="USB_C_Receptacle_USB2.0-Connector-keyboard-right-rescue">
+      <footprints>
+        <fp>USB*C*Receptacle*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_C_Receptacle_USB2.0-Connector-keyboard-right-rescue</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="GND" type="power_in"/>
+        <pin num="A4" name="VBUS" type="power_in"/>
+        <pin num="A5" name="CC1" type="bidirectional"/>
+        <pin num="A6" name="D+" type="bidirectional"/>
+        <pin num="A7" name="D-" type="bidirectional"/>
+        <pin num="A8" name="SBU1" type="bidirectional"/>
+        <pin num="A9" name="VBUS" type="passive"/>
+        <pin num="A12" name="GND" type="passive"/>
+        <pin num="B1" name="GND" type="passive"/>
+        <pin num="B4" name="VBUS" type="passive"/>
+        <pin num="B5" name="CC2" type="bidirectional"/>
+        <pin num="B6" name="D+" type="bidirectional"/>
+        <pin num="B7" name="D-" type="bidirectional"/>
+        <pin num="B8" name="SBU2" type="bidirectional"/>
+        <pin num="B9" name="VBUS" type="passive"/>
+        <pin num="B12" name="GND" type="passive"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="keyboard-mx" part="MX_SK6812MINI-E">
+      <description>Reverse mount adressable LED (WS2812 protocol)</description>
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">MX_SK6812MINI-E</field>
+        <field name="Footprint">marbastlib-mx:LED_MX_6028R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="DOUT" type="output"/>
+        <pin num="3" name="DIN" type="input"/>
+        <pin num="4" name="VSS" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="keyboard-mx" part="MX_SW_HS">
+      <description>Push button switch, normally open, two pins, 45° tilted</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">MX_SW_HS</field>
+        <field name="Footprint">marbastlib-mx:SW_MX_HS_1u</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="keyboard_parts" part="SW_PUSH">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_PUSH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="marbastlib-mx" part="MX_stab">
+      <description>Cherry MX-style stabilizer</description>
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">MX_stab</field>
+        <field name="Footprint">marbastlib-mx:STAB_MX_P_6.25u</field>
+      </fields>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Analog_Switch">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Analog_Switch.kicad_sym</uri>
+    </library>
+    <library logical="Bonsai_C4">
+      <uri>C:/Users/martin/Documents/KiCad/Local/Bonsai_C4/Bonsai_C4.lib</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Jumper">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Jumper.kicad_sym</uri>
+    </library>
+    <library logical="keyboard-mx">
+      <uri>C:/Users/martin/Documents/KiCad/Local/marbastlib-main/marbastlib-mx.kicad_sym</uri>
+    </library>
+    <library logical="marbastlib-mx">
+      <uri>C:/Users/martin/Documents/KiCad/Local/marbastlib-main/marbastlib-mx.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3.3V">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="JP5" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="JP6" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="Q1" pin="4" pinfunction="E" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="23" pinfunction="NC1" pintype="bidirectional"/>
+      <node ref="U1" pin="5" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U3" pin="1" pinfunction="VBAT" pintype="power_in"/>
+      <node ref="U3" pin="24" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U3" pin="3" pinfunction="PC14" pintype="bidirectional"/>
+      <node ref="U3" pin="36" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U3" pin="48" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U3" pin="9" pinfunction="VDDA" pintype="power_in"/>
+      <node ref="U4" pin="3" pinfunction="~{WP}" pintype="input"/>
+      <node ref="U4" pin="7" pinfunction="~{HOLD}" pintype="input"/>
+      <node ref="U4" pin="8" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U5" pin="5" pinfunction="VOUT" pintype="power_out"/>
+      <node ref="U7" pin="8" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U8" pin="5" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J2" pin="A4" pinfunction="VBUS" pintype="power_in"/>
+      <node ref="J2" pin="A9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J2" pin="B4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J2" pin="B9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="LEDa1" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LEDa2" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LEDa3" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LEDa4" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LEDa5" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LEDa6" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LEDa7" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LEDb1" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LEDb2" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LEDb3" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LEDb4" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LEDb5" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LEDb6" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LEDc1" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LEDc2" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LEDc3" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LEDc4" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LEDc5" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LEDc6" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LEDd1" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LEDd2" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LEDd3" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LEDd4" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LEDd5" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LEDd6" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LEDd7" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LEDe1" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LEDe2" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LEDe3" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LEDe4" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LEDe5" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U5" pin="1" pinfunction="VIN" pintype="power_in"/>
+      <node ref="U5" pin="3" pinfunction="EN" pintype="input"/>
+      <node ref="U6" pin="5" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="3" name="/A1">
+      <node ref="U3" pin="11" pinfunction="PA1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="4" name="/A4">
+      <node ref="U3" pin="14" pinfunction="PA4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="5" name="/A5">
+      <node ref="U3" pin="15" pinfunction="PA5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="6" name="/A6">
+      <node ref="U3" pin="16" pinfunction="PA6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="7" name="/BOOT0">
+      <node ref="J6" pin="1" pinfunction="1" pintype="bidirectional"/>
+      <node ref="Q2" pin="2" pinfunction="B" pintype="input"/>
+      <node ref="U3" pin="44" pinfunction="BOOT0" pintype="input"/>
+      <node ref="U8" pin="4" pintype="output"/>
+    </net>
+    <net code="8" name="/C13">
+      <node ref="U3" pin="2" pinfunction="PC13" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="9" name="/C15">
+      <node ref="U3" pin="4" pinfunction="PC15" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="10" name="/F0">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="PH0-OSC_IN" pintype="input"/>
+      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="11" name="/F1">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="PH0-OSC_OUT" pintype="input"/>
+      <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="12" name="/NRST">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="1" pintype="bidirectional"/>
+      <node ref="Q1" pin="6" pinfunction="C" pintype="passive"/>
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="7" pinfunction="NRST" pintype="input"/>
+    </net>
+    <net code="13" name="/SwitchPin">
+      <node ref="Q1" pin="2" pinfunction="B" pintype="input"/>
+      <node ref="Q1" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="14" name="/VCAP_1">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="U3" pin="22" pinfunction="VCAP_1" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="/x2">
+      <node ref="JP1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="22" pinfunction="NC2" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="/x3">
+      <node ref="JP2" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="NC3" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="/x4">
+      <node ref="JP4" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="NC4" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="/x5">
+      <node ref="JP3" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="NC5" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="/z1">
+      <node ref="J3" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="COM5" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="/z2">
+      <node ref="J3" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="COM4" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="/z3">
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="COM3" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="/z4">
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="COM2" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="/z5">
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="COM1" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="CONN_CS">
+      <node ref="JP4" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U3" pin="18" pinfunction="PB0" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="D+">
+      <node ref="U2" pin="4" pinfunction="IO3" pintype="passive"/>
+      <node ref="U3" pin="33" pinfunction="PA12" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="D-">
+      <node ref="U2" pin="6" pinfunction="IO4" pintype="passive"/>
+      <node ref="U3" pin="32" pinfunction="PA11" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="DFU">
+      <node ref="J9" pin="1" pinfunction="1" pintype="bidirectional"/>
+      <node ref="Q1" pin="5" pinfunction="5" pintype="input"/>
+    </net>
+    <net code="28" name="FLASH_CS">
+      <node ref="U3" pin="25" pinfunction="PB12" pintype="bidirectional"/>
+      <node ref="U7" pin="1" pinfunction="~{CS}" pintype="input"/>
+    </net>
+    <net code="29" name="FRAM_CS">
+      <node ref="U3" pin="10" pinfunction="PA0" pintype="bidirectional"/>
+      <node ref="U4" pin="1" pinfunction="~{CS}" pintype="input"/>
+    </net>
+    <net code="30" name="GND">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A2" pintype="passive"/>
+      <node ref="FB1" pin="2" pintype="passive"/>
+      <node ref="J1" pin="A1" pinfunction="GND" pintype="power_in"/>
+      <node ref="J1" pin="A12" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="B1" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="B12" pinfunction="GND" pintype="passive"/>
+      <node ref="J2" pin="A1" pinfunction="GND" pintype="power_in"/>
+      <node ref="J2" pin="A12" pinfunction="GND" pintype="passive"/>
+      <node ref="J2" pin="B1" pinfunction="GND" pintype="passive"/>
+      <node ref="J2" pin="B12" pinfunction="GND" pintype="passive"/>
+      <node ref="J2" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="JP5" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP6" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="LEDa1" pin="4" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LEDa2" pin="4" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LEDa3" pin="4" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LEDa4" pin="4" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LEDa5" pin="4" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LEDa6" pin="4" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LEDa7" pin="4" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LEDb1" pin="4" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LEDb2" pin="4" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LEDb3" pin="4" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LEDb4" pin="4" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LEDb5" pin="4" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LEDb6" pin="4" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LEDc1" pin="4" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LEDc2" pin="4" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LEDc3" pin="4" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LEDc4" pin="4" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LEDc5" pin="4" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LEDc6" pin="4" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LEDd1" pin="4" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LEDd2" pin="4" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LEDd3" pin="4" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LEDd4" pin="4" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LEDd5" pin="4" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LEDd6" pin="4" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LEDd7" pin="4" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LEDe1" pin="4" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LEDe2" pin="4" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LEDe3" pin="4" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LEDe4" pin="4" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LEDe5" pin="4" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LS1" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="Q1" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="Q2" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="25" pinfunction="GND" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="VN" pintype="passive"/>
+      <node ref="U3" pin="23" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U3" pin="35" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U3" pin="47" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U3" pin="49" pinfunction="EP" pintype="power_in"/>
+      <node ref="U3" pin="8" pinfunction="VSSA" pintype="power_in"/>
+      <node ref="U4" pin="4" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U5" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U7" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U8" pin="3" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="31" name="I2C1_SCL">
+      <node ref="JP3" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="U3" pin="45" pinfunction="PB8" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="I2C1_SDA">
+      <node ref="JP4" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="U3" pin="46" pinfunction="PB9" pintype="bidirectional"/>
+    </net>
+    <net code="33" name="Net-(C12-Pad1)">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="U8" pin="2" pintype="input"/>
+    </net>
+    <net code="34" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="VP" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="F1" pin="1" pinfunction="1" pintype="bidirectional"/>
+    </net>
+    <net code="37" name="Net-(D6-Pad+)">
+      <node ref="D6" pin="+" pinfunction="+" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D6-Pad-)">
+      <node ref="D6" pin="-" pinfunction="-" pintype="passive"/>
+      <node ref="Q2" pin="4" pinfunction="E" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(Da1-Pad2)">
+      <node ref="Da1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWa1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(Da2-Pad2)">
+      <node ref="Da2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWa2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(Da3-Pad2)">
+      <node ref="Da3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWa3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(Da4-Pad2)">
+      <node ref="Da4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWa4" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(Da5-Pad2)">
+      <node ref="Da5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWa5" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(Da6-Pad2)">
+      <node ref="Da6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWa6" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(Da7-Pad2)">
+      <node ref="Da7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWa7" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(Db1-Pad2)">
+      <node ref="Db1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWb1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(Db2-Pad2)">
+      <node ref="Db2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWb2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(Db3-Pad2)">
+      <node ref="Db3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWb3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(Db4-Pad2)">
+      <node ref="Db4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWb4" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(Db5-Pad2)">
+      <node ref="Db5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWb5" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(Db6-Pad2)">
+      <node ref="Db6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWb6" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(Dc1-Pad2)">
+      <node ref="Dc1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWc1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(Dc2-Pad2)">
+      <node ref="Dc2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWc2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(Dc3-Pad2)">
+      <node ref="Dc3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWc3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(Dc4-Pad2)">
+      <node ref="Dc4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWc4" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(Dc5-Pad2)">
+      <node ref="Dc5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWc5" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(Dc6-Pad2)">
+      <node ref="Dc6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWc6" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(Dd1-Pad2)">
+      <node ref="Dd1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWd1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(Dd2-Pad2)">
+      <node ref="Dd2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWd2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(Dd3-Pad2)">
+      <node ref="Dd3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWd3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(Dd4-Pad2)">
+      <node ref="Dd4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWd4" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(Dd5-Pad2)">
+      <node ref="Dd5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWd5" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(Dd6-Pad2)">
+      <node ref="Dd6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWd6" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(Dd7-Pad2)">
+      <node ref="Dd7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWd7" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(De1-Pad2)">
+      <node ref="De1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWe1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="66" name="Net-(De2-Pad2)">
+      <node ref="De2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWe2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(De3-Pad2)">
+      <node ref="De3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWe3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(De4-Pad2)">
+      <node ref="De4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWe4" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(De6-Pad2)">
+      <node ref="De6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SWe6" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(FB1-Pad1)">
+      <node ref="FB1" pin="1" pintype="passive"/>
+      <node ref="J1" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(J1-PadA5)">
+      <node ref="J1" pin="A5" pinfunction="CC1" pintype="bidirectional"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(J1-PadA6)">
+      <node ref="J1" pin="A6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="J1" pin="B6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="U2" pin="3" pinfunction="IO2" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(J1-PadA7)">
+      <node ref="J1" pin="A7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="J1" pin="B7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="U2" pin="1" pinfunction="IO1" pintype="passive"/>
+    </net>
+    <net code="74" name="Net-(J1-PadB5)">
+      <node ref="J1" pin="B5" pinfunction="CC2" pintype="bidirectional"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="75" name="Net-(JP5-Pad2)">
+      <node ref="JP5" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="~{EN}" pintype="input"/>
+    </net>
+    <net code="76" name="Net-(JP6-Pad2)">
+      <node ref="JP6" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="IN2" pintype="input"/>
+      <node ref="U1" pin="21" pinfunction="IN1" pintype="input"/>
+    </net>
+    <net code="77" name="Net-(LEDa1-Pad2)">
+      <node ref="LEDa1" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LEDa2" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="78" name="Net-(LEDa2-Pad2)">
+      <node ref="LEDa2" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LEDa3" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="79" name="Net-(LEDa3-Pad2)">
+      <node ref="LEDa3" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LEDa4" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="80" name="Net-(LEDa4-Pad2)">
+      <node ref="LEDa4" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LEDa5" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="81" name="Net-(LEDa5-Pad2)">
+      <node ref="LEDa5" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LEDa6" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="82" name="Net-(LEDa6-Pad2)">
+      <node ref="LEDa6" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LEDa7" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="83" name="Net-(LEDa7-Pad2)">
+      <node ref="LEDa7" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LEDb6" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="84" name="Net-(LEDb1-Pad2)">
+      <node ref="LEDb1" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LEDc1" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="85" name="Net-(LEDb1-Pad3)">
+      <node ref="LEDb1" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="LEDb2" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="86" name="Net-(LEDb2-Pad3)">
+      <node ref="LEDb2" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="LEDb3" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="87" name="Net-(LEDb3-Pad3)">
+      <node ref="LEDb3" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="LEDb4" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="88" name="Net-(LEDb4-Pad3)">
+      <node ref="LEDb4" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="LEDb5" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="89" name="Net-(LEDb5-Pad3)">
+      <node ref="LEDb5" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="LEDb6" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="90" name="Net-(LEDc1-Pad2)">
+      <node ref="LEDc1" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LEDc2" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="91" name="Net-(LEDc2-Pad2)">
+      <node ref="LEDc2" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LEDc3" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="92" name="Net-(LEDc3-Pad2)">
+      <node ref="LEDc3" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LEDc4" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="93" name="Net-(LEDc4-Pad2)">
+      <node ref="LEDc4" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LEDc5" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="94" name="Net-(LEDc5-Pad2)">
+      <node ref="LEDc5" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LEDc6" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="95" name="Net-(LEDc6-Pad2)">
+      <node ref="LEDc6" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LEDd7" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="96" name="Net-(LEDd1-Pad2)">
+      <node ref="LEDd1" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LEDe1" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="97" name="Net-(LEDd1-Pad3)">
+      <node ref="LEDd1" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="LEDd2" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="98" name="Net-(LEDd2-Pad3)">
+      <node ref="LEDd2" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="LEDd3" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="99" name="Net-(LEDd3-Pad3)">
+      <node ref="LEDd3" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="LEDd4" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="100" name="Net-(LEDd4-Pad3)">
+      <node ref="LEDd4" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="LEDd5" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="101" name="Net-(LEDd5-Pad3)">
+      <node ref="LEDd5" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="LEDd6" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="102" name="Net-(LEDd6-Pad3)">
+      <node ref="LEDd6" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="LEDd7" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="103" name="Net-(LEDe1-Pad2)">
+      <node ref="LEDe1" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LEDe2" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="104" name="Net-(LEDe2-Pad2)">
+      <node ref="LEDe2" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LEDe3" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="105" name="Net-(LEDe3-Pad2)">
+      <node ref="LEDe3" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LEDe4" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="106" name="Net-(LEDe4-Pad2)">
+      <node ref="LEDe4" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LEDe5" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="107" name="Net-(Q2-Pad6)">
+      <node ref="Q2" pin="6" pinfunction="C" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+    </net>
+    <net code="108" name="RGB_3V">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U3" pin="31" pinfunction="PA10" pintype="bidirectional"/>
+      <node ref="U6" pin="2" pintype="input"/>
+    </net>
+    <net code="109" name="RGB_5V">
+      <node ref="LEDa1" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="U6" pin="4" pintype="output"/>
+    </net>
+    <net code="110" name="SPI_MISO">
+      <node ref="JP2" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="U3" pin="40" pinfunction="PB4" pintype="bidirectional"/>
+      <node ref="U4" pin="2" pinfunction="SO" pintype="output"/>
+      <node ref="U7" pin="2" pinfunction="DO(IO1)" pintype="bidirectional"/>
+    </net>
+    <net code="111" name="SPI_MOSI">
+      <node ref="JP1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="U3" pin="41" pinfunction="PB5" pintype="bidirectional"/>
+      <node ref="U4" pin="5" pinfunction="SI" pintype="bidirectional"/>
+      <node ref="U7" pin="5" pinfunction="DI(IO0)" pintype="bidirectional"/>
+    </net>
+    <net code="112" name="SPI_SCK">
+      <node ref="JP3" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U3" pin="39" pinfunction="PB3" pintype="bidirectional"/>
+      <node ref="U4" pin="6" pinfunction="SCK" pintype="input"/>
+      <node ref="U7" pin="6" pinfunction="CLK" pintype="input"/>
+    </net>
+    <net code="113" name="USART_RX">
+      <node ref="J2" pin="A6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="J2" pin="B6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="U3" pin="13" pinfunction="PA3" pintype="bidirectional"/>
+    </net>
+    <net code="114" name="USART_TX">
+      <node ref="J2" pin="A7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="J2" pin="B7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="U3" pin="12" pinfunction="PA2" pintype="bidirectional"/>
+    </net>
+    <net code="115" name="VBUS">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="A1" pintype="passive"/>
+      <node ref="F1" pin="2" pinfunction="2" pintype="bidirectional"/>
+      <node ref="J1" pin="A4" pinfunction="VBUS" pintype="power_in"/>
+      <node ref="J1" pin="A9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1" pin="B4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1" pin="B9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="116" name="VBUS_DET">
+      <node ref="J7" pin="1" pinfunction="1" pintype="bidirectional"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U3" pin="30" pinfunction="PA9" pintype="bidirectional"/>
+    </net>
+    <net code="117" name="audio">
+      <node ref="LS1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U3" pin="19" pinfunction="PB1" pintype="bidirectional"/>
+    </net>
+    <net code="118" name="col0">
+      <node ref="SWa1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SWb1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SWc1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SWd1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SWe1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="38" pinfunction="PA15" pintype="bidirectional"/>
+    </net>
+    <net code="119" name="col1">
+      <node ref="SWa2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SWb2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SWc2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SWd2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SWe2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="37" pinfunction="PA14" pintype="bidirectional"/>
+    </net>
+    <net code="120" name="col2">
+      <node ref="SWa3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SWb3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SWc3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SWd3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SWe3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="34" pinfunction="PA13" pintype="bidirectional"/>
+    </net>
+    <net code="121" name="col3">
+      <node ref="SWa4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SWb4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SWc4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SWd4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SWe4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="43" pinfunction="PB7" pintype="bidirectional"/>
+    </net>
+    <net code="122" name="col4">
+      <node ref="SWa5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SWb5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SWc5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SWd5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="NO1" pintype="bidirectional"/>
+      <node ref="U3" pin="21" pinfunction="PB10" pintype="bidirectional"/>
+    </net>
+    <net code="123" name="col5">
+      <node ref="J4" pin="1" pinfunction="1" pintype="bidirectional"/>
+      <node ref="Q2" pin="5" pinfunction="5" pintype="input"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="SWa6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SWb6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SWc6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SWd6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SWe6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="20" pinfunction="PB2" pintype="bidirectional"/>
+    </net>
+    <net code="124" name="col6">
+      <node ref="SWa7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SWd7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="NO2" pintype="bidirectional"/>
+      <node ref="U3" pin="42" pinfunction="PB6" pintype="bidirectional"/>
+    </net>
+    <net code="125" name="row0">
+      <node ref="Da1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Da2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Da3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Da4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Da5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Da6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Da7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U3" pin="17" pinfunction="PA7" pintype="bidirectional"/>
+    </net>
+    <net code="126" name="row1">
+      <node ref="Db1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Db2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Db3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Db4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Db5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Db6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="NO3" pintype="bidirectional"/>
+      <node ref="U3" pin="29" pinfunction="PA8" pintype="bidirectional"/>
+    </net>
+    <net code="127" name="row2">
+      <node ref="Dc1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Dc2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Dc3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Dc4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Dc5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Dc6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="NO4" pintype="bidirectional"/>
+      <node ref="U3" pin="28" pinfunction="PB15" pintype="bidirectional"/>
+    </net>
+    <net code="128" name="row3">
+      <node ref="Dd1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Dd2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Dd3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Dd4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Dd5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Dd6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Dd7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U3" pin="27" pinfunction="PB14" pintype="bidirectional"/>
+    </net>
+    <net code="129" name="row4">
+      <node ref="De1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="De2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="De3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="De4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="De6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="NO5" pintype="bidirectional"/>
+      <node ref="U3" pin="26" pinfunction="PB13" pintype="bidirectional"/>
+    </net>
+    <net code="130" name="unconnected-(J1-PadA8)">
+      <node ref="J1" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="131" name="unconnected-(J1-PadB8)">
+      <node ref="J1" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="132" name="unconnected-(J2-PadA5)">
+      <node ref="J2" pin="A5" pinfunction="CC1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="133" name="unconnected-(J2-PadA8)">
+      <node ref="J2" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="134" name="unconnected-(J2-PadB5)">
+      <node ref="J2" pin="B5" pinfunction="CC2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="135" name="unconnected-(J2-PadB8)">
+      <node ref="J2" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="136" name="unconnected-(LEDe5-Pad2)">
+      <node ref="LEDe5" pin="2" pinfunction="DOUT" pintype="output+no_connect"/>
+    </net>
+    <net code="137" name="unconnected-(U1-Pad9)">
+      <node ref="U1" pin="9" pinfunction="COM6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="138" name="unconnected-(U1-Pad13)">
+      <node ref="U1" pin="13" pinfunction="NO6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="139" name="unconnected-(U1-Pad19)">
+      <node ref="U1" pin="19" pinfunction="NC6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="140" name="unconnected-(U1-Pad24)">
+      <node ref="U1" pin="24" pinfunction="N.C." pintype="no_connect"/>
+    </net>
+    <net code="141" name="unconnected-(U5-Pad4)">
+      <node ref="U5" pin="4" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="142" name="unconnected-(U6-Pad1)">
+      <node ref="U6" pin="1" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="143" name="unconnected-(U7-Pad3)">
+      <node ref="U7" pin="3" pinfunction="IO2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="144" name="unconnected-(U7-Pad7)">
+      <node ref="U7" pin="7" pinfunction="IO3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="145" name="unconnected-(U8-Pad1)">
+      <node ref="U8" pin="1" pinfunction="NC" pintype="no_connect"/>
+    </net>
+  </nets>
+</export>
