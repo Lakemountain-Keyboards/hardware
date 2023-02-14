@@ -2,8 +2,8 @@
 
   # Lakemountain Keyboards
 
-  Hardware
+  Hardware Repository
 
-  - Kicad Schematic & PCB design
+  Kicad Schematic & PCB design
 
 </div>
