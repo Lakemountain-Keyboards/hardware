@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "lakemountain")(type "KiCad")(uri "C:/Users/martin/Projects/lakemountain/hardware/libs/lakemountain.pretty")(options "")(descr ""))
+)
