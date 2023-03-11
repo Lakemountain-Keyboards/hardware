@@ -1,0 +1,6 @@
+Default	False	2.0	3
++ 3.3V	True	2.0	3
++5V	True	2.0	3
+GND	True	2.0	3
+VBUS	True	2.0	3
+False	True	False
