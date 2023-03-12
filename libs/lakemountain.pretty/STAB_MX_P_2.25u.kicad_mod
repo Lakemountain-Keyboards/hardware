@@ -100,7 +100,7 @@
       ff831612-de33-4129-8bf1-103bfa05b038
     )
   )
-  (model "$KIPROJMOD/../libs/packages3d/cherry mx stabilizer_2x.wrl" hide
+  (model "${PROJECT3DMODELS}/cherry mx stabilizer_2x.wrl"
     (offset (xyz -12 0 3.8))
     (scale (xyz 0.395 0.395 0.395))
     (rotate (xyz -90 0 0))

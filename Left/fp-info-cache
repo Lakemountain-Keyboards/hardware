@@ -1,4 +1,4 @@
-21609672413774446
+21653324483528675
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90076,6 +90076,62 @@ buzzer piezo
 2
 2
 lakemountain
+CON_TC2030_outlined
+Tag-Connect programming header; http://www.tag-connect.com/Materials/TC2030-IDC-NL.pdf
+tag connect programming header pogo pins
+0
+6
+6
+lakemountain
+C_0402_1005Metric
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+lakemountain
+C_0805
+Capacitor SMD 0805, reflow soldering
+capacitor 0805
+0
+2
+2
+lakemountain
+D_SOD-123
+SOD-123
+SOD-123
+0
+2
+2
+lakemountain
+D_SOD-523
+http://www.diodes.com/datasheets/ap02001.pdf p.144
+Diode SOD523
+0
+2
+2
+lakemountain
+F1206
+
+
+0
+2
+2
+lakemountain
+LED_0402
+LED SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED
+0
+2
+2
+lakemountain
+LED_0603_1608Metric
+LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED
+0
+2
+2
+lakemountain
 LED_MX_6028R
 Add-on for regular MX-footprints with 6028 reverse mount LED
 cherry MX 6028 rearmount rear mount led rgb backlight
@@ -90104,6 +90160,34 @@ LOGO
 0
 0
 lakemountain
+LQFP-64_10x10mm_P0.5mm
+LQFP, 64 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ad7606_7606-6_7606-4.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+64
+64
+lakemountain
+MountingHole_2.2mm_M2_Pad_Via
+Mounting Hole 2.2mm, M2
+mounting hole 2.2mm m2
+0
+9
+1
+lakemountain
+OSHW-Logo2_9.8x8mm_SilkScreen
+Open Source Hardware Symbol
+Logo Symbol OSHW
+0
+0
+0
+lakemountain
+PinHeader_1x06_P2.54mm_Vertical
+Through hole straight pin header, 1x06, 2.54mm pitch, single row
+Through hole pin header THT 1x06 2.54mm single row
+0
+6
+6
+lakemountain
 QMK_PoweredBy
 
 
@@ -90118,12 +90202,82 @@ QR_Code
 0
 0
 lakemountain
+R_0402_1005Metric
+Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+lakemountain
+R_0603_1608Metric
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+lakemountain
+R_0805_2012Metric_Pad1.20x1.40mm_HandSolder
+Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+lakemountain
 RotaryEncoder-Switch_Vertical_H20mm
 Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
 rotary encoder
 0
 5
 5
+lakemountain
+SOIC-8_5.23x5.23mm_P1.27mm
+SOIC, 8 Pin (http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf#page=68), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+8
+8
+lakemountain
+SOP-8_3.9x4.9mm_P1.27mm
+SOP, 8 Pin (http://www.macronix.com/Lists/Datasheet/Attachments/7534/MX25R3235F,%20Wide%20Range,%2032Mb,%20v1.6.pdf#page=79), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOP SO
+0
+8
+8
+lakemountain
+SOT-23
+SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+3
+3
+lakemountain
+SOT-23-5
+5-pin SOT23 package
+SOT-23-5
+0
+5
+5
+lakemountain
+SOT-23-6
+6-pin SOT-23 package
+SOT-23-6
+0
+6
+6
+lakemountain
+SOT-353_SC-70-5
+SOT-353, SC-70-5
+SOT-353 SC-70-5
+0
+5
+5
+lakemountain
+SOT-363_SC-70-6_SC-88
+SOT-363, SC-70-6, SC-88
+SOT-363, SC-70-6, SC-88
+0
+6
+6
 lakemountain
 STAB_MX_P_2.25u
 Footprint for Cherry Clip/Screw in type stabilizers, 2.25u, plated
@@ -90216,6 +90370,27 @@ Footprint for Cherry MX style switches with Kailh hotswap socket
 6
 2
 lakemountain
+SW_SPST_TL3342
+Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf
+SPST Tactile Switch
+0
+4
+2
+lakemountain
+SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip
+net tie solder jumper bridged
+0
+3
+3
+lakemountain
+SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, open, labeled with numbers
+solder jumper open
+0
+3
+3
+lakemountain
 TestPoint_Pad_D1.0mm
 SMD pad as test Point, diameter 1.0mm
 test point SMD pad
@@ -90236,6 +90411,13 @@ WQFN NoLead
 0
 29
 25
+lakemountain
+X2-SMD-5.0X3.2X1.3MM
+3.2MM*5MM DIMENSION
+3.2MM*5MM DIMENSION
+0
+2
+2
 lakemountain
 sk6812side
 

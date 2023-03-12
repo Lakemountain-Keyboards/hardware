@@ -99,7 +99,7 @@
   (fp_line (start 3.8 1.999999) (end -3.8 1.999999)
     (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp acb1135f-5bc9-4065-957c-f227ae31bbbe))
   (pad "1" thru_hole circle (at 2.274182 0.01 180) (size 0.4572 0.4572) (drill 0.3048) (layers "*.Cu") (tstamp c67987c9-d461-49e7-a0b9-537d0654aed4))
-  (pad "1" smd custom (at 2.71 -0.73 90) (size 0.521536 0.521536) (layers "F.Cu" "F.Paste" "F.Mask")
+  (pad "1" smd custom (at 2.71 -0.73 270) (size 0.521536 0.521536) (layers "F.Cu" "F.Paste" "F.Mask")
     (thermal_bridge_angle 45)
     (options (clearance outline) (anchor circle))
     (primitives
@@ -114,7 +114,7 @@
         )
         (width 0.2) (fill yes))
     ) (tstamp 11682412-ab63-4287-ae3c-5a7bb4f64735))
-  (pad "1" smd custom (at 2.71 0.74 90) (size 0.521536 0.521536) (layers "B.Cu" "B.Paste" "B.Mask")
+  (pad "1" smd custom (at 2.71 0.74 270) (size 0.521536 0.521536) (layers "B.Cu" "B.Paste" "B.Mask")
     (thermal_bridge_angle 45)
     (options (clearance outline) (anchor circle))
     (primitives
@@ -129,7 +129,7 @@
         )
         (width 0.2) (fill yes))
     ) (tstamp 0be9a434-1465-4cf9-9458-601b3d814f74))
-  (pad "2" smd custom (at 2.73 -0.73 270) (size 0.521536 0.521536) (layers "B.Cu" "B.Paste" "B.Mask")
+  (pad "2" smd custom (at 2.73 -0.73 90) (size 0.521536 0.521536) (layers "B.Cu" "B.Paste" "B.Mask")
     (thermal_bridge_angle 45)
     (options (clearance outline) (anchor circle))
     (primitives
@@ -144,7 +144,7 @@
         )
         (width 0.2) (fill yes))
     ) (tstamp d479fa6a-8a32-431b-8c74-17b38bb788c4))
-  (pad "2" smd custom (at 2.73 0.74 270) (size 0.521536 0.521536) (layers "F.Cu" "F.Paste" "F.Mask")
+  (pad "2" smd custom (at 2.73 0.74 90) (size 0.521536 0.521536) (layers "F.Cu" "F.Paste" "F.Mask")
     (thermal_bridge_angle 45)
     (options (clearance outline) (anchor circle))
     (primitives
@@ -161,7 +161,7 @@
     ) (tstamp 93bba42b-d59f-4b89-b571-78c6db2f8de9))
   (pad "2" thru_hole circle (at 3.167752 0.01 180) (size 0.4572 0.4572) (drill 0.3048) (layers "*.Cu") (tstamp 460156b1-387b-4ecd-807b-82b359b744f9))
   (pad "3" thru_hole circle (at -3.167678 0 180) (size 0.4572 0.4572) (drill 0.3048) (layers "*.Cu") (tstamp 16af655a-496e-4b2f-bd1d-ee2c471f5fd8))
-  (pad "3" smd custom (at -2.73186 -0.74 90) (size 0.521536 0.521536) (layers "F.Cu" "F.Paste" "F.Mask")
+  (pad "3" smd custom (at -2.73186 -0.74 270) (size 0.521536 0.521536) (layers "F.Cu" "F.Paste" "F.Mask")
     (thermal_bridge_angle 45)
     (options (clearance outline) (anchor circle))
     (primitives
@@ -176,7 +176,7 @@
         )
         (width 0.2) (fill yes))
     ) (tstamp 20ddf99c-0782-4208-a750-6715bec5c187))
-  (pad "3" smd custom (at -2.73186 0.73 90) (size 0.521536 0.521536) (layers "B.Cu" "B.Paste" "B.Mask")
+  (pad "3" smd custom (at -2.73186 0.73 270) (size 0.521536 0.521536) (layers "B.Cu" "B.Paste" "B.Mask")
     (thermal_bridge_angle 45)
     (options (clearance outline) (anchor circle))
     (primitives
@@ -191,7 +191,7 @@
         )
         (width 0.2) (fill yes))
     ) (tstamp 55e3b4b0-bbfd-40b2-ba4d-111c1b27a0b2))
-  (pad "4" smd custom (at -2.7 -0.76 270) (size 0.5 0.5) (layers "B.Cu" "B.Paste" "B.Mask")
+  (pad "4" smd custom (at -2.7 -0.76 90) (size 0.5 0.5) (layers "B.Cu" "B.Paste" "B.Mask")
     (thermal_bridge_angle 45)
     (options (clearance outline) (anchor circle))
     (primitives
@@ -208,7 +208,7 @@
         )
         (width 0.2) (fill yes))
     ) (tstamp 101c8e0a-87eb-468b-ad15-5c11a4e2364d))
-  (pad "4" smd custom (at -2.7 0.75 270) (size 0.5 0.5) (layers "F.Cu" "F.Paste" "F.Mask")
+  (pad "4" smd custom (at -2.7 0.75 90) (size 0.5 0.5) (layers "F.Cu" "F.Paste" "F.Mask")
     (thermal_bridge_angle 45)
     (options (clearance outline) (anchor circle))
     (primitives
@@ -227,7 +227,7 @@
     ) (tstamp 5c63643a-f231-4b99-aaf0-0960394a44b8))
   (pad "4" thru_hole circle (at -2.274108 0 180) (size 0.4572 0.4572) (drill 0.3048) (layers "*.Cu") (tstamp b2273cdd-622f-4634-97b9-83158093500a))
   (model "$KIPROJMOD/../libs/packages3d/LED_SK6812MINI-E.step"
-    (offset (xyz 0 5 -1.8))
+    (offset (xyz 0 5.1 -1.8))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 -180 0))
   )

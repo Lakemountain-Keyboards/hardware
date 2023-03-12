@@ -108,7 +108,7 @@
   (pad "2" smd roundrect (at -6.09 -5.08 180) (size 2.55 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp b97248b7-b8b8-4cab-a294-ed6d21443ebb))
   (pad "2" smd rect (at -4.34 -5.08 180) (size 1.65 2.5) (layers "F.Cu") (tstamp 3ed0c3f4-2915-4644-9c8c-bd1900bde6a9))
   (pad "2" thru_hole circle (at -2.54 -5.08 180) (size 3.3 3.3) (drill 3) (layers "*.Cu" "*.Mask") (tstamp e7114596-a2ae-495f-b3cb-dd84f78d27e9))
-  (model "$KIPROJMOD/../libs/packages3d/HS_Kailh_MX.step" hide
+  (model "${PROJECT3DMODELS}/HS_Kailh_MX.step" hide
     (offset (xyz -4.82 6.74 1.82))
     (scale (xyz 1 1 1))
     (rotate (xyz 180 0 0))
