@@ -1,16 +1,25 @@
-(footprint "LOGO" (version 20211014) (generator pcbnew)
+(footprint "LOGO" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 0)
   (attr board_only exclude_from_pos_files exclude_from_bom)
-  (fp_text reference "G***" (at 0 0) (layer "F.SilkS") hide
-    (effects (font (size 1.524 1.524) (thickness 0.3)))
-    (tstamp c2ab9ee8-feb3-4770-8619-42a3aa7d8302)
+  (fp_text reference "REF**" (at 0 0) (layer "F.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.3)))
+    (tstamp 7fde32a4-97ee-459b-8955-048d95660548)
   )
   (fp_text value "LOGO" (at 0.75 0) (layer "F.SilkS") hide
-    (effects (font (size 1.524 1.524) (thickness 0.3)))
-    (tstamp 2ca431b2-1875-415c-9e0a-9cc2ea1fae8d)
+      (effects (font (size 1.524 1.524) (thickness 0.3)))
+    (tstamp 22ada56a-8fad-4844-bd19-37faf7ced8e6)
   )
-  (fp_poly (pts
+  (fp_poly
+    (pts
+      (xy -2.220936 2.486823)
+      (xy -2.236576 2.502463)
+      (xy -2.252216 2.486823)
+      (xy -2.236576 2.471183)
+    )
+
+    (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 098bc692-24fb-4e2a-ad5f-352348f9ac31))
+  (fp_poly
+    (pts
       (xy 0.131052 -7.719995)
       (xy 0.189772 -7.707521)
       (xy 0.200284 -7.699995)
@@ -2314,11 +2323,7 @@
       (xy -0.130008 -7.715473)
       (xy -0.051734 -7.723971)
       (xy 0.042918 -7.725478)
-    ) (layer "F.SilkS") (width 0) (fill solid) (tstamp 37a84d18-61e0-4371-a741-05666ceb185d))
-  (fp_poly (pts
-      (xy -2.220936 2.486823)
-      (xy -2.236576 2.502463)
-      (xy -2.252216 2.486823)
-      (xy -2.236576 2.471183)
-    ) (layer "F.SilkS") (width 0) (fill solid) (tstamp 5067fde0-0e7a-4a49-aa83-687ffba22b2e))
+    )
+
+    (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 59c7ad4e-8c30-4ebe-9e89-804db15cf865))
 )

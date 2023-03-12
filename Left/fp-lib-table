@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name "lakemountain")(type "KiCad")(uri "C:/Users/martin/Projects/lakemountain/hardware/libs/lakemountain.pretty")(options "")(descr ""))
+  (version 7)
+  (lib (name "lakemountain")(type "KiCad")(uri "${KIPRJMOD}/../libs/lakemountain.pretty")(options "")(descr ""))
 )

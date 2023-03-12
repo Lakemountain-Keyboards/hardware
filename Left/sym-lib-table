@@ -1,4 +1,6 @@
 (sym_lib_table
-  (lib (name "qr_code")(type "KiCad")(uri "C:/Users/martin/Projects/lakemountain/hardware/libs/qr_code.kicad_sym")(options "")(descr ""))
-  (lib (name "logo")(type "KiCad")(uri "C:/Users/martin/Projects/lakemountain/hardware/libs/logo.kicad_sym")(options "")(descr ""))
+  (version 7)
+  (lib (name "qr_code")(type "KiCad")(uri "${KIPRJMOD}/../libs/qr_code.kicad_sym")(options "")(descr ""))
+  (lib (name "logo")(type "KiCad")(uri "${KIPRJMOD}/../libs/logo.kicad_sym")(options "")(descr ""))
+  (lib (name "lakemountain")(type "KiCad")(uri "${KIPRJMOD}/../libs/lakemountain.kicad_sym")(options "")(descr ""))
 )
