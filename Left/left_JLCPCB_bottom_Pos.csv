@@ -1,9 +1,15 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"R13","5.1k","R_0603_1608Metric",162.59,-48.6,270.0,bottom
+"R5","5.1k","R_0603_1608Metric",164.1,-48.6,270.0,bottom
+"U11","SRV05-4","SOT-23-6",182.3,-48.8,180.0,bottom
+"U10","SRV05-4","SOT-23-6",196.2,-127.5,90.0,bottom
+"U9","SRV05-4","SOT-23-6",159.8,-48.5,180.0,bottom
+"R15","10k","R_0603_1608Metric",158.4,-129.1,270.0,bottom
 "LEDb4","MX_SK6812MINI-E","LED_MX_6028R_Flipped",139.255,-74.168,0.0,bottom
 "LEDc6","MX_SK6812MINI-E","LED_MX_6028R",182.118,-93.218,0.0,bottom
 "SWb3","MX_SW_HS","SW_MX_HS_1u",120.205,-79.248,0.0,bottom
 "C23","100n","C_0805",171.6,-134.5,270.0,bottom
-"De1","D","D_SOD-123",83.721,-142.998,90.0,bottom
+"De1","D","D_SOD-123",85.1,-141.8,180.0,bottom
 "LEDs10","MX_SK6812MINI-E","sk6812side",76.2,-69.8,90.0,bottom
 "SWd1","MX_SW_HS","SW_MX_HS_1.25u",74.96125,-117.348,0.0,bottom
 "LEDs17","MX_SK6812MINI-E","sk6812side",168.0025,-136.3,180.0,bottom
@@ -77,8 +83,7 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "SWb6","MX_SW_HS","SW_MX_HS_1u",177.355,-79.248,0.0,bottom
 "C10","cap_100nF_16v_0402","C_0402_1005Metric",103.443,-37.263,45.0,bottom
 "SWd3","MX_SW_HS","SW_MX_HS_1u",115.4425,-117.348,0.0,bottom
-"R5","5.1k","R_0603_1608Metric",179.75,-50.65,270.0,bottom
-"LEDc1","MX_SK6812MINI-E","LED_MX_6028R_SOLO",84.35,-95.05,45.0,bottom
+"LEDc1","MX_SK6812MINI-E","LED_MX_6028R_SOLO",84.5,-95.0,45.0,bottom
 "LEDd5","MX_SK6812MINI-E","LED_MX_6028R_Flipped",153.5425,-112.268,0.0,bottom
 "LEDa3","MX_SK6812MINI-E","LED_MX_6028R",110.6805,-55.118,0.0,bottom
 "Dc6","D","D_SOD-123",173.1425,-105.298,90.0,bottom
@@ -99,7 +104,6 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "D4","SMD-LED-WHITE_0402_","LED_0402",123.5,-40.3,180.0,bottom
 "De5","1N4148","D_SOD-523",127.7,-44.1,0.0,bottom
 "Dc3","D","D_SOD-123",133.533,-105.298,90.0,bottom
-"D1","PMEG2010AEB","D_SOD-523",73.6,-43.803,90.0,bottom
 "SWc5","MX_SW_HS","SW_MX_HS_1u",163.068,-98.298,0.0,bottom
 "Da3","D","D_SOD-123",118.9925,-67.248,90.0,bottom
 "SWa6","MX_SW_HS","SW_MX_HS_1u",167.8305,-60.198,0.0,bottom
@@ -124,7 +128,7 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "LEDe3","MX_SK6812MINI-E","LED_MX_6028R",122.58625,-131.318,0.0,bottom
 "SWdx1","MX_SW_HS","SW_MX_HS_2.25u",84.453,-117.348,180.0,bottom
 "Dd3","D","D_SOD-123",123.6,-124.398,90.0,bottom
-"C7","100n","C_0805",104.15,-132.35,270.0,bottom
+"C7","100n","C_0805",104.15,-132.35,90.0,bottom
 "C11","cap_100nF_16v_0402","C_0402_1005Metric",104.143,-37.963,45.0,bottom
 "LEDs15","MX_SK6812MINI-E","sk6812side",112.6025,-136.5,180.0,bottom
 "LEDs5","MX_SK6812MINI-E","sk6812side",161.4925,-56.048,0.0,bottom
@@ -153,7 +157,6 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "SWa5","MX_SW_HS","SW_MX_HS_1u",148.7805,-60.198,0.0,bottom
 "LEDs9","MX_SK6812MINI-E","sk6812side",85.2925,-56.048,0.0,bottom
 "LEDb2","MX_SK6812MINI-E","LED_MX_6028R_Flipped",101.155,-74.168,0.0,bottom
-"R13","5.1k","R_0603_1608Metric",181.25,-50.65,270.0,bottom
 "R9","r_100k_0402_1p","R_0402_1005Metric",126.7,-45.9,270.0,bottom
 "Dd5","D","D_SOD-123",161.4925,-124.398,90.0,bottom
 "LEDb3","MX_SK6812MINI-E","LED_MX_6028R_Flipped",120.205,-74.168,0.0,bottom

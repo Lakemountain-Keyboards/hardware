@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "qr_code")(type "KiCad")(uri "C:/Users/martin/Projects/lakemountain/hardware/libs/qr_code.kicad_sym")(options "")(descr ""))
+  (lib (name "logo")(type "KiCad")(uri "C:/Users/martin/Projects/lakemountain/hardware/libs/logo.kicad_sym")(options "")(descr ""))
+)

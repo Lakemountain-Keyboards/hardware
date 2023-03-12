@@ -1,92 +1,155 @@
-21771259203250
-Connector_Pin
-Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork
-solder Pin_ with flat fork, hole diameter 0.7mm, length 6.5mm, width 1.8mm
-solder Pin_ with flat fork
+36921597865484
+lakemountain
+Buzzer_Mallory_AST1109MLTRQ
+Mallory low-profile piezo buzzer, https://www.mspindy.com/specifications/AST1109MLTRQ.pdf
+buzzer piezo
+0
+2
+2
+lakemountain
+LED_MX_6028R
+Add-on for regular MX-footprints with 6028 reverse mount LED
+cherry MX 6028 rearmount rear mount led rgb backlight
+0
+12
+4
+lakemountain
+LED_MX_6028R_Flipped
+Add-on for regular MX-footprints with 6028 reverse mount LED
+cherry MX 6028 rearmount rear mount led rgb backlight
+0
+12
+4
+lakemountain
+LED_MX_6028R_SOLO
+Add-on for regular MX-footprints with 6028 reverse mount LED
+cherry MX 6028 rearmount rear mount led rgb backlight
+0
+12
+4
+lakemountain
+RotaryEncoder-Switch_Vertical_H20mm
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+5
+5
+lakemountain
+STAB_MX_P_2.25u
+Footprint for Cherry Clip/Screw in type stabilizers, 2.25u, plated
+
+0
+2
+0
+lakemountain
+STAB_MX_P_2.75u
+Footprint for Cherry Clip/Screw in type stabilizers, 2.75u
+
+0
+2
+0
+lakemountain
+STAB_MX_P_2u
+Footprint for Cherry Clip/Screw in type stabilizers, 2u
+
+0
+2
+0
+lakemountain
+STAB_MX_P_ISO
+Footprint for Cherry Clip/Screw in type stabilizers, ISO Enter
+
+0
+2
+0
+lakemountain
+STAB_MX_P_ISO_FLIPPED
+Footprint for Cherry Clip/Screw in type stabilizers, ISO Enter
+
+0
+2
+0
+lakemountain
+SW_MX_HS_1.5u
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+lakemountain
+SW_MX_HS_1.25u
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+lakemountain
+SW_MX_HS_1.75u
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+lakemountain
+SW_MX_HS_1.75u_stp
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+lakemountain
+SW_MX_HS_1u
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+lakemountain
+SW_MX_HS_2.25u
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+lakemountain
+SW_MX_HS_2.75u
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+lakemountain
+SW_MX_HS_2u
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+lakemountain
+TestPoint_Pad_D1.0mm
+SMD pad as test Point, diameter 1.0mm
+test point SMD pad
 0
 1
 1
-Connector_Pin
-Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork
-solder Pin_ with flat fork, hole diameter 0.9mm, length 10.0mm, width 2.4mm
-solder Pin_ with flat fork
+lakemountain
+USB_C_Receptacle_HRO_TYPE-C-31-M-12
+USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf
+usb usb-c 2.0 pd
 0
-1
-1
-Connector_Pin
-Pin_D1.0mm_L10.0mm
-solder Pin_ diameter 1.0mm, hole diameter 1.0mm (press fit), length 10.0mm
-solder Pin_ press fit
+20
+17
+lakemountain
+WQFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm
+WQFN, 24 Pin (http://www.ti.com/lit/ds/symlink/lm26480.pdf#page=39), generated with kicad-footprint-generator ipc_noLead_generator.py
+WQFN NoLead
 0
-1
-1
-Connector_Pin
-Pin_D1.0mm_L10.0mm_LooseFit
-solder Pin_ diameter 1.0mm, hole diameter 1.2mm (loose fit), length 10.0mm
-solder Pin_ loose fit
+29
+25
+lakemountain
+sk6812side
+
+
 0
-1
-1
-Connector_Pin
-Pin_D1.1mm_L8.5mm_W2.5mm_FlatFork
-solder Pin_ with flat fork, hole diameter 1.1mm, length 8.5mm, width 2.5mm
-solder Pin_ with flat fork
-0
-1
-1
-Connector_Pin
-Pin_D1.1mm_L10.2mm_W3.5mm_Flat
-solder Pin_ with flat with hole, hole diameter 1.1mm, length 10.2mm, width 3.5mm
-solder Pin_ with flat fork
-0
-1
-1
-Connector_Pin
-Pin_D1.2mm_L10.2mm_W2.9mm_FlatFork
-solder Pin_ with flat with fork, hole diameter 1.2mm, length 11.3mm, width 3.0mm
-solder Pin_ with flat fork
-0
-1
-1
-Connector_Pin
-Pin_D1.2mm_L11.3mm_W3.0mm_Flat
-solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm
-solder Pin_ with flat fork
-0
-1
-1
-Connector_Pin
-Pin_D1.3mm_L10.0mm_W3.5mm_Flat
-solder Pin_ with flat with hole, hole diameter 1.3mm, length 10.0mm, width 3.5mm, e.g. Ettinger 13.13.865, https://katalog.ettinger.de/#p=434
-solder Pin_ with flat fork
-0
-1
-1
-Connector_Pin
-Pin_D1.3mm_L11.0mm
-solder Pin_ diameter 1.3mm, hole diameter 1.3mm, length 11.0mm
-solder Pin_ pressfit
-0
-1
-1
-Connector_Pin
-Pin_D1.3mm_L11.0mm_LooseFit
-solder Pin_ diameter 1.3mm, hole diameter 1.5mm (loose fit), length 11.0mm
-solder Pin_ loose fit
-0
-1
-1
-Connector_Pin
-Pin_D1.3mm_L11.3mm_W2.8mm_Flat
-solder Pin_ with flat with hole, hole diameter 1.3mm, length 11.3mm, width 2.8mm
-solder Pin_ with flat fork
-0
-1
-1
-Connector_Pin
-Pin_D1.4mm_L8.5mm_W2.8mm_FlatFork
-solder Pin_ with flat with fork, hole diameter 1.4mm, length 8.5mm, width 2.8mm, e.g. Ettinger 13.13.890, https://katalog.ettinger.de/#p=434
-solder Pin_ with flat fork
-0
-1
-1
+4
+4
