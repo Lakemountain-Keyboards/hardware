@@ -4,6 +4,6 @@
 
   Hardware Repository
 
-  Kicad Schematic & PCB design
+  Kicad Schematic & PCB layout
 
 </div>
