@@ -10,7 +10,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp e1138d95-fe0a-453c-814f-4bfa85e98f75)
   )
-  (fp_text value "SK6812MINI-E" (at 0 2.3 unlocked) (layer "F.Fab")
+  (fp_text value "SK6812side" (at 0 2.3 unlocked) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp d407cea3-8ccf-4d50-bb04-acb608b536bc)
   )

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "lakemountain")(type "KiCad")(uri "C:/Users/martin/Projects/lakemountain/hardware/libs/lakemountain.kicad_sym")(options "")(descr ""))
+)

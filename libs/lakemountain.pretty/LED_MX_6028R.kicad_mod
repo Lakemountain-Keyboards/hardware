@@ -226,7 +226,7 @@
         (width 0.2) (fill yes))
     ) (tstamp 5c63643a-f231-4b99-aaf0-0960394a44b8))
   (pad "4" thru_hole circle (at -2.274108 0 180) (size 0.4572 0.4572) (drill 0.3048) (layers "*.Cu") (tstamp b2273cdd-622f-4634-97b9-83158093500a))
-  (model "$KIPROJMOD/../libs/packages3d/LED_SK6812MINI-E.step"
+  (model "${PROJECT3DMODELS}/LED_SK6812MINI-E.step"
     (offset (xyz 0 5.1 -1.8))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 -180 0))
